@@ -1,0 +1,933 @@
+<svg width="600.98mm" height="843.24mm" version="1.1" viewBox="0 0 600.98 843.24" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="DotS" overflow="visible" orient="auto">
+   <path transform="matrix(.2 0 0 .2 1.48 .2)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#502" fill-rule="evenodd" stroke="#502" stroke-width="1pt"/>
+  </marker>
+  <marker id="marker3845" overflow="visible" orient="auto">
+   <path transform="matrix(.2 0 0 .2 1.48 .2)" d="m-2.5-1c0 2.76-2.24 5-5 5s-5-2.24-5-5 2.24-5 5-5 5 2.24 5 5z" fill="#502" fill-rule="evenodd" stroke="#502" stroke-width="1pt"/>
+  </marker>
+  <clipPath id="clipPath5935">
+   <path d="m-59.098 34.808h254v338.67h-254z" enable-background="new" fill="#ff2a2a" fill-rule="evenodd" style="paint-order:markers stroke fill"/>
+  </clipPath>
+  <clipPath id="clipPath30">
+   <path d="m310.82 195.8 211.96 211.96c7.309 7.304 7.309 19.066 0 26.375l-211.96 211.96c-7.304 7.304-19.066 7.304-26.371 0l-211.96-211.96c-7.304-7.309-7.304-19.071 0-26.375l211.96-211.96c7.305-7.305 19.067-7.305 26.371 0z"/>
+  </clipPath>
+  <clipPath id="clipPath52">
+   <path d="m0 0h596v842h-596z"/>
+  </clipPath>
+  <clipPath id="clipPath56">
+   <path d="m310.82 195.8c-7.304-7.305-19.07-7.305-26.375 0l-168.59 168.59c16.297 26.656 35.633 51.328 57.622 73.523 62.515 62.352 143.74 102.49 231.25 114.28l118.06-118.06c7.305-7.309 7.309-19.071 4e-3 -26.375z"/>
+  </clipPath>
+  <clipPath id="clipPath60">
+   <path d="m-29.377 351.44h326.19v326.19h-326.19z"/>
+  </clipPath>
+  <linearGradient id="linearGradient66" x1="187.5" x2="132.27" y1="718.77" y2="512.65" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <mask x="0" y="0" width="1" height="1" maskUnits="userSpaceOnUse">
+   <g clip-path="url(#clipPath60)">
+    <path d="m-29.377 351.44h326.19v326.19h-326.19z" fill="url(#linearGradient66)"/>
+   </g>
+  </mask>
+ </defs>
+ <g transform="translate(232.59 196.51)">
+  <path d="m-232.59-196.51h600.98v801.31h-600.98z" enable-background="new" fill="#fff" fill-rule="evenodd" style="paint-order:markers stroke fill"/>
+  <g transform="matrix(2.3661 0 0 2.3661 -92.759 -278.87)" clip-path="url(#clipPath5935)" stroke="#08a">
+   <path d="m44.074 130.22 3.4923-0.15351 2.1491 3.2621 2.6096 0.38378 0.23026 0.53728s-1.0362 3.4923-2.2642 4.1447-4.068 0.88268-5.1425-0.80592c-1.0746-1.6886-2.2642-4.068-1.0746-7.3684z" enable-background="new" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229" style="paint-order:stroke markers fill"/>
+   <path d="m59.808 135.37s0.0768 7.2917 6.7544 8.2895c6.6776 0.99781 10.976-1.0746 12.588-5.1425 1.6118-4.068 1.3048-8.5965-1.3048-10.976-2.6096-2.3794-9.9013-2.5329-12.05-0.38377s-5.7566 7.9057-5.9868 8.2127z" enable-background="new" fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229" style="paint-order:stroke markers fill"/>
+   <g fill="none">
+    <g stroke-linecap="round" stroke-linejoin="round">
+     <path d="m65.758 195.71s-3.561 2.7264-3.1715 10.516c0.38948 7.7896-0.66768 16.191-9.0693 21.31-8.4016 5.1188-19.585 4.0617-25.539 0.16692" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <path d="m22.804 215.51c0.38948 0.38948 5.7865 9.1249 5.4527 17.026-0.33384 7.9008-11.017 3.5053-14.8-0.11127-3.7835-3.6166-12.519-8.5685-9.9595-18.417 2.5594-9.8482 13.242-12.575 19.975-10.516 2.4551 0.75073 8.7354 4.8407 10.516 3.5053 1.7805-1.3354-0.11128-4.5625-1.2797-8.0121-1.1684-3.4497-5.2301-11.128-0.8346-17.471 4.3955-6.3429 4.3955-7.9565 3.2827-14.522-1.1128-6.5655-1.1684-12.074 0.77896-17.081 1.9474-5.0076 4.8407-12.018 18.862-9.6813" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <path d="m25.753 214.6s2.0865 5.1884 1.1684 9.3892" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+     <path d="m32.766 199.66s-4.2314 0.89024-5.5668-5.2301c-1.3354-6.1204-3.1715-11.796-6.6768-11.796-3.5053 0-10.905 9.9039-13.242 14.578-2.3369 4.6737-2.2812 11.267-2.2812 13.048" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <path d="m6.5014 199.04s-11.017-8.5685-7.6226-13.91c1.7805-2.3925 5.7309 1.5579 7.567 2.3369 1.8361 0.77896 4.3955 0.38948 4.785-3.8948 0.38948-4.2843-1.0015-11.072 7.2888-18.194 8.2903-7.1219 15.913-3.394 15.913-3.394" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <g stroke-width=".79375">
+      <path d="m42.945 129.88s0.2782 8.5685-1.0015 11.629" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m43.836 127.16s2.5594 1.2241 3.8948 3.394c1.3354 2.17 3.0045 4.1173 5.7865 2.6707" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m47.285 129.88s-3.9504 0.77895-5.5083-0.89024c-1.5579-1.6692-3.394-6.8993-1.3354-10.738s7.2332-6.1204 11.351-1.8361" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m58.803 118.37s-4.9519 5.8422-5.1189 10.349l-0.16692 4.5068s4.5068 4.0617 6.788 1.5579 4.2286-8.1234 8.7354-9.0136c4.5068-0.89024 9.2362 0.22255 10.627 4.785 1.391 4.5625 0.11127 10.46-5.4527 12.797s-10.794-0.33384-12.519-2.0587c-1.7248-1.7248-2.003-5.8978-2.003-5.8978" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m61.14 140.57s3.1158 9.5144 12.686 6.8993" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m69.041 144.24s6.3986 1.0572 9.8482-0.33384c3.4497-1.391 6.5655-4.7294 6.5655-4.7294" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m79.668 130.05s5.0076 1.6136 8.179-1.7248c3.1715-3.3384 2.003-7.7339 0.77896-10.683-1.2241-2.9489-6.0647-5.4527-6.0647-5.4527" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m86.734 110.86s3.1715 3.2271 3.7835 7.3444" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m88.793 110.52s1.4129 1.546 1.9474 4.6737" enable-background="new" style="paint-order:markers stroke fill"/>
+      <circle cx="71.628" cy="134.53" r="3.0324" enable-background="new" style="paint-order:markers stroke fill"/>
+     </g>
+     <circle cx="70.877" cy="133.19" r="1.3425" enable-background="new" stroke-width=".89078" style="paint-order:markers stroke fill"/>
+     <g stroke-width=".79375">
+      <path d="m47.837 130.81s-1.6131 2.1245-0.11803 4.1704c1.495 2.0458 3.8163 0.31474 3.777-1.2196" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m47.404 133.72c0.2754 0.0197 1.3377 0.59015 2.0065-0.76719" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m44.17 130.13s-1.1406 3.5053 0.22256 6.1482c1.3632 2.6429 3.6166 3.1993 5.5083 2.4482s2.6985-3.9782 2.6985-5.0076" enable-background="new" style="paint-order:markers stroke fill"/>
+     </g>
+     <path d="m121.06 117.35c4.5766 3.5637 9.0561 7.656 13.435 12.617 0 0 13.161-23.005 4.7035-44.259 0 0 2.6707-7.1219 13.354-6.788s14.021 0.89024 17.36-3.1158c3.3384-4.0061 5.2301-1.3354 5.3414 1.8918 0.11128 3.2271-3.3384 17.693-12.129 18.806-8.7911 1.1128-14.578 4.785-18.472 16.469-3.8948 11.684-6.1204 32.827-7.2332 37.946-1.1128 5.1188-1.8918 10.015-4.3399 13.131" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <path d="m45.477 113.71s0.23606-1.6361-0.31474-5.6884c-0.55081-4.0524-1.0229-8.9309 1.6918-11.213 2.7147-2.2819 6.531-2.8721 6.7277-3.0294 0.19672-0.15737-0.98358-1.4164 1.0623-6.5703 2.0458-5.154 7.5146-14.046 13.928-15.108s17.744 0.03934 19.947 9.1276c2.2032 9.0883-2.5065 14.718 0.19672 17.901 0.77933 0.91775 11.638 4.0295 24.824 12.724" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+     <g stroke-width=".79375">
+      <path d="m53.795 93.774s3.1715-0.50076 10.905 1.1128c7.7339 1.6136 17.137 2.9489 20.197 1.1684 3.0602-1.7805 3.5053-6.0091 1.6136-8.2347-1.8918-2.2256-12.742-5.9535-30.379-3.3384" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m84.387 86.427c3.8556 2.8721 1.5737 7.0424-0.31474 8.4588-1.9469 1.4601-7.2785 1.8885-7.2785 1.8885s8.4064 1.3194 12.301 2.6571" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m77.738 91.305s-0.94423-2.5967 0.70818-3.0688c1.6524-0.47212 2.4393 1.5737 2.0065 2.8327-0.43278 1.259-2.0458 1.141-2.7147 0.23606z" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m77.482 90.637s-0.53113 1.0623-0.0197 1.9278c0.74753 1.3377 4.9572 0.84588 3.1081-2.2819" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m70.515 89.723s-1.2951-2.4407 0.27593-3.1373c1.571-0.69663 2.6339 1.2204 2.3798 2.5272-0.25407 1.3068-1.8679 1.4135-2.6558 0.61011z" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m70.169 89.096s-0.37875 1.1256 0.24777 1.9119c0.92574 1.2211 5.0266 0.1505 2.7618-2.6907" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m63.722 89.241s-1.8199-2.079-0.45029-3.1171c1.3696-1.0381 2.8434 0.5844 2.8956 1.9147 0.0521 1.3303-1.4943 1.804-2.4453 1.2024z" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m63.241 88.71s-0.11075 1.1825 0.67928 1.8043c1.1809 0.97652 4.9274-1.0053 2.0717-3.252" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m57.05 89.162s-1.6287-1.8653-0.40298-2.7967c1.2257-0.93139 2.5447 0.52434 2.5913 1.7179 0.0467 1.1936-1.3373 1.6186-2.1884 1.0788z" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m56.621 88.685s-0.0991 1.061 0.60791 1.6189c1.0568 0.87616 4.4097-0.90198 1.8541-2.9178" enable-background="new" style="paint-order:markers stroke fill"/>
+     </g>
+     <path d="m75.303 71.782s4.6377-14.075 16.519-17.459c10.78 1.0229 24.319 4.6238 30.692 11.784" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+    </g>
+    <g stroke-dasharray="2.38125, 2.38125000000000009" stroke-linecap="round" stroke-linejoin="round" stroke-width=".79375">
+     <path d="m77.053 71.963s5.3414-13.187 16.469-17.36" enable-background="new" style="paint-order:markers stroke fill"/>
+     <path d="m88.911 90.361s14.619 5.0313 27.619 15.108" enable-background="new" style="paint-order:markers stroke fill"/>
+     <path d="m124.42 111.48c4.4488 4.1114 9.1378 8.0627 12.747 12.734" enable-background="new" style="paint-order:markers stroke fill"/>
+     <path d="m43.917 90.486s6.2806-5.3181 11.553-5.5541" enable-background="new" style="paint-order:markers stroke fill"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round">
+     <path d="m57.997 84.024s4.0822-8.1413 9.2755-10.03c5.1933-1.8885 16.367 0.23606 19.436 3.5409" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+     <g stroke-width="1.3229">
+      <path d="m44.69 101.63s-1.259-0.23606-1.3574-1.7311c-0.0984-1.495-1.4754-10.8 5.9212-24.019 7.3965-13.219 20.773-20.301 35.724-21.639 4.5638 0 6.8457 0.07869 6.8457 0.07869" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m25.975 161.32s-2.4482-2.1143-0.8346-7.6226c1.6136-5.5083 8.5129-16.803 8.7911-21.477s-4.3955-9.5144-6.8993-11.295c-2.5038-1.7805-6.176-1.6692-7.0662 1.1684-0.89024 2.8376 2.1143 4.5068 3.6166 3.3384 1.5023-1.1684 1.1128-2.8933 0.38948-3.394" enable-background="new" style="paint-order:markers stroke fill"/>
+      <path d="m30.204 123.99s-1.6136 6.2873-9.7926 5.3971c-8.179-0.89024-10.738-11.184-8.0678-17.304 2.6707-6.1204 10.627-11.072 16.803-11.072 6.176 0 14.355 5.7309 15.913 7.6783" enable-background="new" style="paint-order:markers stroke fill"/>
+     </g>
+     <rect transform="rotate(6.2115)" x="102.72" y="52.066" width="21.721" height="21.721" ry="3.0084" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+    </g>
+    <rect transform="rotate(6.2115)" x="103.81" y="53.153" width="19.545" height="19.545" rx="2.2292" ry="2.2292" enable-background="new" stroke-dasharray="1.58750003, 1.58750002999999995" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52917" style="paint-order:markers stroke fill"/>
+    <g stroke-linejoin="round">
+     <g stroke-linecap="round">
+      <path d="m81.337 54.659s6.788-5.4527 20.364-6.2873c13.576-0.8346 28.049 6.8949 32.927 14.764 4.8786 7.8686 5.9802 14.793 4.4851 22.347-1.495 7.5539-4.9572 10.977-6.8064 11.764" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <g stroke-width=".79375">
+       <path d="m119.6 89.889s-2.754-1.1016-1.5737-5.5081c1.1803-4.4064 6.2162-13.613 4.1704-20.222-2.0458-6.6097-21.167-12.905-30.373-9.8358" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m117.86 101.96s-1.3022-1.4005-1.024-4.4607c0.2782-3.0602 1.7248-7.0662 3.5053-7.9008 1.7805-0.8346 4.8963 0.33384 7.4001 1.8361 2.5038 1.5023 4.3955 4.0061 4.3955 6.5655 0 2.5594-3.5609 7.9008-5.3414 8.2347" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m120.84 100.67s-2.003-0.89024-2.6707 0.72332c-0.66767 1.6136-2.8933 7.567-4.1173 10.349-1.2241 2.782-1.0572 3.7279 0.50076 4.6181 1.5579 0.89023 3.1158 1.391 4.2843 1.8361 1.1684 0.44512 1.6692-0.33384 2.5594-1.6136 0.89023-1.2797 5.4527-9.57 5.2858-11.184-0.16692-1.6136-3.6166-3.9504-5.8422-4.7294z" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <circle cx="126.38" cy="96.417" r="2.9211" enable-background="new" stroke-width=".52917" style="paint-order:markers stroke fill"/>
+      <path d="m125.39 98.128a1.9752 1.9752 0 0 1-0.97071-1.9684 1.9752 1.9752 0 0 1 1.4471-1.6501" enable-background="new" stroke-width=".26458" style="paint-order:markers stroke fill"/>
+      <g stroke-width=".79375">
+       <path d="m92.687 145.46s7.7896-5.7865 15.357-2.003 9.57 18.139 9.57 19.919" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m95.692 143.24s-4.1173-7.6783-0.11128-16.358c5.0761-10.998 13.947-11.85 17.409-11.89" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m120.39 118.06s8.1834 4.2649 7.3178 17.311c-0.76267 11.496-12.511 15.816-12.983 15.816" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <path d="m104.22 141.82s-3.4229-6.6884 1.141-14.085c4.5638-7.3965 11.803-9.3637 16.76-4.9572s5.0359 13.534 2.2032 18.491c-2.8327 4.9572-8.3014 7.4359-10.741 7.3572" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <path d="m110.16 166.66s8.8114-5.8766 18.254-3.8308c9.4424 2.0458 11.646 7.5539 13.219 16.052" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <path d="m29.592 206.22s1.0572-3.4497 3.8391-5.1188" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+      <g stroke-width="1.3229">
+       <path d="m136.91 184.23s3.6196-7.1605 12.275-7.2392c8.6555-0.0787 14.636 1.3377 16.996 9.9932 2.3606 8.6555-1.3377 17.232-5.272 18.413-3.9343 1.1803-10.859 0.47212-11.724-5.1146s3.6196-6.767 5.9802-3.5409c2.3606 3.2261-0.62949 6.0589-2.4393 4.5638-1.8098-1.495-1.4164-3.8556-1.4164-3.8556" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m150.68 195.01s-3.5409 0.23606-7.1605 3.3048c-3.6196 3.0688-9.6121 4.0302-14.085 3.1475-5.9802-1.1803-14.242-8.8129-14.242-8.8129" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m64.912 159.92s-5.5478 8.7804 0.84569 35.786c1.5149 7.6488 5.764 14.573 5.764 14.573" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m79.076 191.39s14.164-10.229 23.134-8.3408c8.9703 1.8885 13.062 8.6555 14.321 14.478 1.259 5.8228 0.78687 17.468-0.78686 24.078-1.5737 6.6097-0.78686 8.6555 3.3048 6.2949 4.0917-2.3606 9.2063-2.9114 12.118 4.4064 2.9114 7.3178-2.518 7.3965-5.1146 5.3507s-4.206-0.42403-5.8228 2.2032c-1.259 2.0458-7.3965 6.6097-12.905 5.9802-3.868-0.44206-11.016-1.8885-10.701-15.423 0.31475-13.534-0.23606-18.806-3.9343-23.213-3.6983-4.4064-13.377-4.7212-21.167 3.0688s-7.3178 29.035-7.3178 29.035" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m122.84 153.36s7.4279-5.1467 13.882 0.30602" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m134.5 129.97s1.4764 14.274-3.5868 21.062" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m131.48 150.04s-2.864-1.0953-7.2984 1.0442" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m134.5 129.97s4.4574 5.0499 5.0475 7.4105" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m135.69 127.82s3.1081 3.6983 4.2097 6.0589" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m137.17 124.21s3.089 3.6848 3.6005 4.629" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <g stroke-width="1.3229">
+       <path d="m158.41 205.98c-0.27666 3.1048-0.56184 6.8693-0.64863 8.3883-0.31475 5.508 1.1016 18.413 0.15737 23.134s-3.9766 8.7976-7.5962 10.057" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m172.19 89.051c2.6527 4.0431 3.7709 8.5714 3.6693 14.057-0.15737 8.4981-4.5638 26.596-6.4523 32.734-1.7769 5.7748-6.5401 33.89-8.0238 43.578" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m138.41 70.375s12.905 4.4274 21.735 8.7636" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m165.71 153.88-6.095-0.70172c-1.5311-0.17628-2.6218-1.5508-2.4455-3.0819l0.95658-8.3086c0.17628-1.5311 1.5508-2.6218 3.0819-2.4455l7.1521 0.82342" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m167.2 138.36-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m165.75 138.12-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m164.1 137.89-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m162.33 137.69-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m159.12 146.89-3.1475-0.33301" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m159.36 145.4-3.1475-0.33302" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m159.59 143.72-3.1475-0.33302" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m159.79 141.93-3.1475-0.33302" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m158.61 150.41-3.1475-0.33301" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m158.8 148.62-3.1475-0.33302" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m164.57 152.41-0.70818 3.1474" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m163.11 152.17-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m161.46 151.93-0.70818 3.1474" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m159.69 151.74-0.70818 3.1475" enable-background="new" style="paint-order:markers stroke fill"/>
+       <rect x="131.01" y="217.36" width="12.275" height="10.701" ry="1.4443" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m133.19 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m134.82 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m136.45 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m138.08 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m139.71 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m141.34 215.71v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m133.19 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m134.82 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m136.45 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m138.08 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m139.71 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m141.34 226.64v3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m129.2 225.82h3.0045" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m129.2 224.19h3.0045" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m129.2 222.56h3.0045" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m129.2 220.93h3.0045" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m129.2 219.3h3.0045" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m142.3 225.82h3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m142.3 224.19h3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m142.3 222.56h3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m142.3 220.93h3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m142.3 219.3h3.0046" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m20.918 129.41 2.5532 32.631" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m12.979 172.51-28.233 11.122-12.762-135.09c1.5579 0.44512 42.048-7.756 42.048-7.756l4.9437 63.8" enable-background="new" style="paint-order:markers stroke fill"/>
+       <rect transform="rotate(-7.7311)" x="-59.928" y="91.44" width="11.351" height="15.69" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m-50.423 121.47 20.084-4.476 5.4087 30.094-20.084 4.476z" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m68.818 100.45c-7.6262 2.0317-8.4023 2.0956-8.5685 4.3399-0.11128 1.5023 0.33384 4.8963 2.9489 4.9519 2.6151 0.0556 12.352-1.9474 15.023-2.8376s2.8933-3.1158 2.003-5.7865c-0.8674-2.4909-3.7799-2.6994-11.406-0.66768z" enable-background="new" style="paint-order:markers stroke fill"/>
+      </g>
+      <path d="m67.705 101.96s-2.3925 0.38948-2.2256 1.5579 0.50076 4.2286 1.391 4.5068c0.89024 0.2782 3.1715-0.5564 3.1715-0.5564" enable-background="new" stroke-width=".52917" style="paint-order:markers stroke fill"/>
+      <path d="m73.24 106.71s2.3925-0.38948 2.2256-1.5579c-0.16692-1.1684-0.50076-4.2286-1.391-4.5068-0.89023-0.27819-3.1715 0.5564-3.1715 0.5564" enable-background="new" stroke-width=".52917" style="paint-order:markers stroke fill"/>
+      <path d="m80.807 148.75c0.47211 0.15738 9.285-0.15737 12.59 9.4424 3.3048 9.5998-1.1803 16.839 2.5966 24.944" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <path d="m-27.151 57.864 41.546-8.026" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+      <path d="m28.055 229.38c8.9964 2.9902 18.743 5.8909 28.988 8.4354 48.156 11.96 96.312 14.164 141.64 2.518" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <path d="m-19.35 209.81s3.174 2.664 22.483 10.424" enable-background="new" stroke-width="1.3229" style="paint-order:markers stroke fill"/>
+      <path d="m93.386 268.39 0.0822 0.64957c0.15885 1.2558-0.72918 2.3464-1.9911 2.4454l-14.712 1.1536c-1.2619 0.099-2.4057-0.83236-2.5646-2.0882l-2.5476-20.139c-0.0413-0.32616-0.0119-0.64119 0.0763-0.93059" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <rect transform="matrix(.99694 -.078176 .1255 .99209 0 0)" x="39.905" y="251.67" width="19.326" height="24.869" ry="2.2848" enable-background="new" stroke-width=".7942" style="paint-order:markers fill stroke"/>
+      <rect transform="matrix(.99693 -.078355 .12521 .99213 0 0)" x="41.557" y="254.52" width="16.128" height="20.801" ry="1.911" enable-background="new" stroke-width=".52946" style="paint-order:markers fill stroke"/>
+      <ellipse cx="80.781" cy="247.28" rx=".89024" ry=".70092" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m114.6 263.55c-4.605-0.082-12 1.0998-12 7.8686 0 5.0458 2.1218 14.321 12.354 14.321 10.232 0 11.698-9.5942 11.646-14.321-0.0787-7.0818-7.3947-7.7866-12-7.8686z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m128.97 279.83a14.714 6.9244 0 0 1-5.9964 8.431 14.714 6.9244 0 0 1-18.691-1.2964 14.714 6.9244 0 0 1-0.57225-8.8866" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.8 270.87s2.4786-1.8491 4.8786-1.2983c2.3999 0.5508 3.3835 2.8327 1.7311 6.4129-1.6524 3.5802-4.6032 3.9343-5.8622 3.9343-1.259 0-2.5573-1.4557-1.259-2.9114s3.8556 1.0623 4.9966-1.377c1.141-2.4393 0.55081-3.6983-0.86555-3.5409-1.4164 0.15738-2.636 1.5344-3.6589 1.4557" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.93 283.19a14.714 6.9244 0 0 1-7.0211 6.5279 14.714 6.9244 0 0 1-15.546-0.0802 14.714 6.9244 0 0 1-6.7152-6.5988" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m121.84 266.69a10.071 5.2858 0 0 1 2.1831 5.7604 10.071 5.2858 0 0 1-9.3044 3.263 10.071 5.2858 0 0 1-9.3044-3.263 10.071 5.2858 0 0 1 2.1831-5.7604" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m105.9 272.74s8.8189-6.9272 17.833-0.25038" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m-29.63 238.37 6.649 3.8556s5.7835-4.6032 7.1998-9.5211c-3.895-0.5508-6.413-2.3212-6.413-2.3212s-2.1639 5.9015-7.4359 7.9867z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-25.741 235.57c-4.1636 0.80562-9.4101 1.623-9.9882 1.7033-2.003 0.27819-1.7248 2.5594-0.33384 3.6722 1.391 1.1128 4.8963 5.2301 34.608 18.918 29.712 13.687 45.625 15.023 48.629 10.683 3.0046-4.3399 8.1234-15.802 8.4572-17.137 0.33384-1.3354 0.44512-4.3399-4.6737-5.564-5.1189-1.2241-39.003-12.129-47.238-15.913-1.9196-0.89024-3.4497-1.5579-4.785-1.391 0 0-7.317 1.4363-14.837 2.9115" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-36.456 238.08s14.419 10.996 37.632 20.754c23.213 9.7571 39.815 13.455 43.514 11.095 3.6983-2.3606 10.623-17.704 10.623-19.357" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m45.352 270.46 0.16692 0.5703" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".39687">
+       <path d="m44.865 251.43 6.2595 1.7526-0.86241 1.7248-6.2317-1.9474z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m46.478 248.83 6.2595 1.7526-0.86241 1.7248-6.2317-1.9474z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m37.626 263.94 6.2595 1.7527-0.86242 1.7248-6.2316-1.9474z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m39.239 261.34 6.2595 1.7526-0.86242 1.7248-6.2316-1.9474z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="45.063" cy="258.3" r="2.7737" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <circle cx="45.112" cy="258.15" r="1.9475" enable-background="new" stroke-width=".26458" style="paint-order:markers fill stroke"/>
+      <path d="m-21.643 242.7s22.819 13.377 55.238 22.504c9.1276-12.118 11.016-16.76 11.016-16.76-14.498-4.3747-28.436-9.4507-42.097-14.872z" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+      <path d="m44.205 249.29c-14.381-4.3523-28.212-9.3927-41.77-14.773l-23.091 8.7248" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".26458">
+       <path d="m29.941 259.83 4.6425 1.377 7.7958-10.392-3.9401-1.2925z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m31.196 258.4 4.4512 1.3075" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m0.82619 235.27c13.678 5.7419 28.18 10.522 42.731 15.245" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-8.1318 247.62 13.465-9.1249 31.826 11.796-10.46 11.573z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.965 247.81c0.55081-0.0787 17.695-10.514 17.695-10.514" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.6565 237.99 6.1801 2.9344" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-26.576 237.88 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-25.547 237.05 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-24.573 236.1 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-23.655 235.13 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-22.765 234.07 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-21.93 232.79 4.0617 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="-9.9631" cy="242.61" rx="3.5657" ry="2.2256" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="-9.9631" cy="242.61" rx="2.8253" ry="1.7535" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-10.342 240.94 3.0589 2.095-4.6032 0.80653z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.4598 238.29 6.4129 3.1278" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-8.8958 239.34 5.272 2.9212 0.72785-0.39343-5.1933-2.8327z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.1273 237.96 4.7433 2.323 4.9798-2.9489-3.8391-1.6414z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.3419 239.79 5.154-2.695" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-3.9189 237.52 4.4261 2.2229" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-2.8763 237.13 4.1704 2.0458" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.696 236.7 3.8753 1.9278" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-0.61409 236.29 3.777 1.8295" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m31.706 239.77 19.084 5.8422 3.1158-6.0091-18.305-4.8963z" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".26458">
+       <path d="m33.987 239.22 15.635 4.7294" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m34.878 238.27 15.635 4.7294" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m35.545 237.16 15.635 4.7294" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m-5.9844 257.81s0.98358 8.8129 2.1639 9.5998c1.1803 0.78686 15.108 6.6097 16.288 6.531 1.1803-0.0787 7.7506-5.154 7.7506-5.154" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m11.209 265.48 1.259 8.1047" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m13.097 266.15 0.78686 4.7999 4.4851-2.9114" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m-16.843 222.04 3.5409 1.7704 6.3343-4.013-3.4622-1.5737z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.282 225.46-0.02006-1.6514 6.3343-4.013 0.07092 1.6256z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.282 225.46-0.02006-1.6514-3.5409-1.7704 0.01389 1.0926" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-18.986 224.55 2.2806 1.1403 2.5897-1.6029-2.2438-1.0832z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-16.585 226.68-0.12042-0.99196 2.5897-1.6029 0.03177 0.97743z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-16.585 226.68-0.12042-0.99196-2.2806-1.1403-0.01865 0.84825z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.282 225.46-0.80177-0.40353" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-16.548 224.81 0.59015-0.35409" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-17.364 224.33 0.59015-0.35409" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-42.574 133.01s-1.0623 2.9507-0.07869 3.3442c0.98358 0.39343 2.4393 0.94424 2.5573 0s-0.23606-1.495 0.47212-1.4164c0.70818 0.0787-0.70818 1.6524 0.11803 2.0459 0.82621 0.39343 1.495-0.23607 1.7311-1.495 0.23606-1.259 1.0229-0.43277 0.62949 0.47212-0.39343 0.9049-0.31474 1.495 0.59015 1.6524 0.9049 0.15737 1.5344-0.35409 1.495-1.4164-0.03934-1.0623-0.03934-1.2983 0.78687-0.98358 0.82621 0.31475 4.6032 0.0787 4.1704-4.6425-0.43278-4.7212-6.0589-5.8621-8.3801-6.7277-2.3213-0.86555-4.5638-0.47212-6.3343 3.1475s-0.70818 5.5474 2.2426 6.0195z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-41.182 137.95s-0.2782 0.58421 0.50076 0.69549c0.77896 0.11128-0.19474-0.66767 1.0572-0.50076 1.2519 0.16692 0.08346 0.61204 0.6955 1.0015s0.50076-0.89024 1.085-0.6955 1.6414 0.44512 1.6414 1.0572 0.16692 1.5857-2.5316 0.9737c-2.6985-0.61204-4.1452-0.47294-4.1452-1.4745s0.19474-1.5579 1.697-1.0572z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="-38.581" cy="130.9" r=".29211" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="-37.217" cy="131.46" r=".29211" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-34.255 127.24s-1.0293-0.83459-1.6136-0.0835c-0.58422 0.75114-0.2782 3.8392 0.77896 4.6181 1.0572 0.77896 2.5038 1.085 2.5038-0.75113 0-1.8361-0.4173-2.7264-1.6692-3.7835z" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m-40.811 126.11c1.497-0.83313 2.4632-0.27882 2.675 0.55078 0.21178 0.82959-0.86498 2.3453-2.2218 2.9171-1.3568 0.57182-2.9179 0.32391-2.799-0.71831 0.12161-1.0663 0.84887-1.9164 2.3458-2.7496z" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m-44.103 123.99s0.80678-1.085 2.1978-1.5301" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-43.964 122.43s-2.0309 0.94588-2.2256 2.476" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-32.279 145.13s2.7263-1.2241 3.7279-4.785" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-29.664 144.52s1.391-0.94588 1.6136-2.1143" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-27.55 227.2s1.8639 0.50076 2.6151-0.91806c0.30602-2.6429-0.33384-3.4218-0.94588-4.4512-0.61204-1.0293-5.0698-17.932-7.0106-17.499-1.9408 0.43324 3.7279 18.139 3.7279 18.862 0 0.72331 0 2.3369 1.6136 4.0061z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-29.787 219.88s1.8098 0 2.7147-0.78686" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-32.187 208.31s1.6524 6.9244 2.6753 10.465" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-29.118 220.82s0.70818 2.0065 0.74752 2.518c0.03934 0.51146-0.03934 1.8098 1.141 3.1868" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-27.387 225.07s1.2196-0.31474 1.6524-0.62949" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-27.94 226.89s-0.47294 0.61204-0.1391 1.0015c0.87633 0.66767 4.1452-0.19474 4.1452-1.5023 0-0.58421-0.89024-0.5564-0.89024-0.5564" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-28.823 225.45s-1.8688 0.64916-1.9475 2.459c-0.07869 1.8098 0.35409 7.3965 1.4557 8.3014" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-24.751 224.4s2.8327-0.19672 3.895 0.86555 1.9672 6.4916 1.9672 6.4916" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-30.712 227.59c0.19672 0.62949 0.73922 2.1581 3.5999 2.2426 4.2491 0.15737 6.8822-3.1244 6.8822-3.1244" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m53.188 257.61 0.47211 1.259s2.5573 0.78687 3.6983 0.39344c1.141-0.39344 1.1016-1.7704 0.66884-3.0294" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m54.407 255.13-1.2196 2.4786s3.2655 1.0623 4.2884 0.43277c1.0229-0.62949 1.0229-2.0065 0.19672-2.3212-0.82621-0.31474-3.2655-0.59014-3.2655-0.59014z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m58.46 257.57s3.3442 0.90489 4.6425 2.9507c1.2983 2.0458 1.9878 5.069-2.6859 5.7923-4.6737 0.72331-6.788 1.1128-8.4016 5.8422-1.6136 4.7294-2.6151 8.0121-6.5098 7.4001-3.8948-0.61204-11.851-5.1745-16.414-5.0076-4.5625 0.16692-7.0662 0.66767-9.3475 3.0602-2.2812 2.3925-5.1745 5.3414-5.1745 5.3414" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+     </g>
+     <rect x="52.939" y="273.7" width="26.697" height="7.79" rx="5.0631" ry="3.895" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+     <g stroke-linecap="round">
+      <g stroke-width=".39687">
+       <circle cx="79.292" cy="277.58" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="80.492" cy="277.85" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="81.613" cy="278.44" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="82.636" cy="279.09" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="83.62" cy="279.74" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="83.62" cy="279.74" r=".84588" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m86.925 278.66s2.5193 0.3628 3.0491 0.94423c0.52983 0.58144 0.31475 1.495 0.31475 1.495l-2.2426 3.7573s-1.2582 0.60786-2.0852 0.21639c-0.82703-0.39148-1.8688-2.8327-1.8688-2.8327-0.4453-1.1403 1.757-3.843 2.8327-3.5802z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m86.492 279.54s-0.49178 0-1.141 0.82621c-0.64916 0.82621-0.29507 1.495-0.0984 1.7114 0.19672 0.21638 0.70818 0.35409 1.4164-0.70818s0.84588-2.0262-0.17705-1.8295z" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m132.32 277.69 15.371 28.12 45.953-9.1276-29.429-45.166-43.278 5.3507 7.2353 13.236" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.42 272.38 1.8127 3.3161" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m131.05 278.87 16.015 29.297 45.953-9.1276 0.6295-2.3606" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m127.93 273.17 1.9332 3.5367" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m120.94 256.86-0.6295 2.3606 3.4192 6.2551" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m127.03 258.86 21.809 39.864 37.459-7.4344-23.989-36.787z" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m161.19 297.69 1.5943 3.3126 19.832-3.9825-2.545-3.1151z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m181.99 295.75s2.6707-0.55641 2.3369-0.94588 0-3.6166-0.44512-4.5068c-0.44512-0.89024-2.3369 0.61204-2.8376 0-0.50076-0.61204-1.2241-1.9474-1.2241-1.9474l-24.37 4.2286s0.72332 1.3354 1.2241 1.9474c0.50076 0.61204 2.3925-0.89024 2.8376 0 0.44512 0.89023 0.0556 5.0632 0.38948 5.4527 0.33384 0.38947 1.8918-0.44511 1.8918-0.44511" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m144.32 276.11 2.4482-0.94587 4.8406 9.4031-2.5594 0.89023z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m148.88 274.33 2.4481-0.94588 4.0061 7.5114-2.5594 0.89024z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m153.39 272.54 2.4481-0.94588 3.2828 5.7309-2.5594 0.89023z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m160.4 278.5-9.57 12.352 1.6692-0.11128" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m150.83 290.85-0.33384-1.5023" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m143.91 266.46 16.76-10.544s2.0458-0.15737 1.9672 2.6753c-5.1146 3.2262-16.996 10.308-16.996 10.308l-3.6983 0.62949z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m143.91 266.46s1.6524 0.94424 1.7311 2.4393" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.17 267.48 16.76-10.701" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m141.98 273.43 13.131-4.1173" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m165.46 283.69a4.0895 4.0895 0 0 1 0.29719-4.5343 4.0895 4.0895 0 0 1 4.3029-1.4606 4.0895 4.0895 0 0 1 2.9961 3.4164 4.0895 4.0895 0 0 1-2.0098 4.0754l-2.0448-3.5416z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m170.65 287.02a4.0895 4.0895 0 0 1-5.5864-1.4969l3.5416-2.0448z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m155.23 265.31s9.2779-2.3454 12.352 9.6813l0.89849-1.3315" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m167.58 274.99-1.4931-0.66821" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m-30.613 232-29.429 16.839" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-19.969 226.62 1.3214-0.78524" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-18.395 223.78s-9.3858-27.98-11.274-58.51c-11.331-3.9343-23.291-8.3408-23.291-8.3408l-8.9703 2.518" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-25.714 194.43 5.1189 1.6692s1.4389 19.727 0.99381 23.511" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-19.951 202.02 1.5344 0.70818 0.03934 5.0753-1.1016 1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-26.048 192.31 1.6692-0.50076-1.4466-10.015-2.0587 0.22256" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-27.884 180.41 1.9474-0.22256c-0.11128-0.22256-0.89024-10.21-0.89024-10.21l-2.2256 0.25038" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m-29.669 165.27-33.101 11.907" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m-59.765 158.71 22.59 9.3475c3.776 22.987 8.063 40.098 12.425 56.35" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m-11.784 319.41c-10.414-3.8009-26.449-10.31-36.77-17.857-4.0353-2.9505-5.8228-4.8786-6.1375-7.8686-0.61752-5.8664-2.4446-41.697-0.95678-43.51 0 0 1.7436-2.6007 4.1042-1.6565s5.5081 5.3507 23.449 13.691c17.941 8.3408 36.668 12.59 39.815 13.691 3.1475 1.1016 3.023 0.55667 2.8492 7.0454s2.1867 30.409 2.5015 33.085c0.31475 2.6754 1.4164 8.4982-2.518 9.285-3.9343 0.78684-11.882-0.70818-17.704-2.4393" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m-55.648 250.18s2.1143 1.2241 4.5625 2.8933c2.4481 1.6692 14.578 10.238 35.053 17.582 20.475 7.3444 26.485 8.346 26.818 9.6813 0.33384 1.3354 1.6692 25.483 2.3369 31.603 0.66768 6.1204 1.5579 11.128 0.33384 13.354" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-10.685 317.83c-6.7016-2.3399-25.123-9.3517-36.437-17.369-3.3794-2.3948-4.8763-3.9096-5.1399-6.1137-0.51715-4.3243-2.0472-30.621-0.80126-31.858 0 0 1.4602-1.7979 3.4371-0.96836 1.9769 0.82955 7.6143 5.5406 19.637 11.392 11.897 5.7901 28.872 10.31 31.508 11.301 2.6359 0.99104 3.867 1.4756 4.2222 6.375 0.34233 4.7223 1.8313 22.356 2.0949 24.33 0.26359 1.974 1.1861 6.295-2.1087 6.6378-1.5955 0.166-3.8709-0.1475-6.3474-0.69778" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-53.063 262.49s1.7706 1.0196 3.8209 2.3842c2.0502 1.3646 12.208 8.3437 29.355 14.921 9.0033 3.4534 14.667 5.3933 18.056 6.601 4.2581 1.6143 4.6395 4.003 4.9509 8.0442 0.45136 5.8733 1.0475 14.331 1.4094 17.252 0.55916 4.5129 1.3047 8.2256 0.27958 9.78" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-41.293 276.11s13.465 8.0121 28.154 12.797c2.3369 0.77896 4.1173 1.4466 4.1173 4.3399 0 2.8933 1.2241 18.695 1.2241 20.475 0 1.7805-2.8933 3.5609-5.3414 3.1158-2.4481-0.44511-27.15-10.36-31.712-15.59-1.6692-2.5594-2.3392-19.463-2.0053-21.911 0.33384-2.4482 4.2286-3.8948 5.564-3.2271z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.2502 292.63 6.8375 2.0199v2.1531l-6.8375-2.062z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.1111 296.08 6.8375 2.0199v2.1531l-6.8375-2.062z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.972 299.67 6.8375 2.0199v2.153l-6.8375-2.062z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-46.635 278.78s10.46 6.1204 20.921 10.683c9.8132 4.2802 11.128 3.0046 12.018 5.7865 0.48525 1.5164 0.5915 7.5864 0.88461 12.791 0.24463 4.344 0.75449 8.0176 0.45075 8.5745" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="-7.3024" cy="323.69" r=".68851" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.8926 323.25s1.5192-2.1618 2.1639-2.3409c0.47212-0.0984 1.3573 0.0984 1.0623 1.1803-0.29507 1.082-2.3016 2.2032-2.3016 2.2032" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="-12.588" cy="321.79" r=".68851" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.178 321.36s1.5192-2.1618 2.1639-2.3409c0.47212-0.0984 1.3573 0.0983 1.0623 1.1803-0.29507 1.082-2.3016 2.2032-2.3016 2.2032" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-8.0696 324.04s-1.3573 0.90487-2.1835 0.64915m-1.436-1.3574c0.01966-0.6295 1.8295-3.0491 2.3016-3.5212s2.7737-0.37375 3.3442 1.2393" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.014 319.02s-0.56699-0.40648 0.99092-1.714c1.5579-1.3075 3.7835-3.5053 4.9241-3.8113 1.1406-0.30602 4.9798 0.63987 6.2595 1.3632 1.2797 0.72331 1.0572 3.3384 0.86242 3.7835-0.19474 0.44511-5.2858 4.2008-5.5918 4.2842-0.30602 0.0835-1.3632-0.13909-1.3632-0.13909" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.019 314.8c0.16692 0 4.3399 0.47295 5.8978 1.3354 1.5579 0.8624 1.6692 1.5023 1.6414 3.6444" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m-10.449 322.65c-0.24078-3e-3 -0.47321 0.0881-0.64802 0.25374 0 0-4.1011 3.6734-5.3051 8.3173-0.31802 1.2267-0.45925 3.0267-0.63407 5.1713-0.17482 2.1446-0.36603 4.5995-0.70435 6.9484-0.33832 2.3489-0.83136 4.593-1.558 6.2673-0.72669 1.6743-1.626 2.6896-2.7378 2.9822-2.8043 0.73795-4.9694 0.4281-7.5913-0.66146-2.6219-1.0896-5.6471-3.0048-9.8118-5.3847-4.3981-2.5132-9.9652-3.0036-14.444-2.9213-4.4788 0.0823-7.9148 0.77152-7.9148 0.77152-1.2304 0.22963-0.85941 2.0786 0.36432 1.8159 0 0 3.2774-0.6567 7.5846-0.73589 4.3071-0.0792 9.5982 0.45331 13.491 2.6779 4.1264 2.3579 7.1603 4.2983 10.02 5.4865 2.8592 1.1882 5.5977 1.5784 8.7736 0.74258 1.8782-0.49427 3.123-2.0956 3.9651-4.0359 0.84212-1.9403 1.3422-4.3094 1.6924-6.7407 0.35019-2.4313 0.54292-4.9232 0.71727-7.0621 0.17436-2.1389 0.34806-3.9586 0.58084-4.8565 0.99925-3.8543 4.7666-7.4197 4.7666-7.4197 0.62973-0.56312 0.23854-1.6063-0.60617-1.6164" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers fill stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+       <path d="m-39.584 307.54s-0.29181 16.65 0.15737 17.783c0.37811 0.95372 9.5998 8.8916 22.347 9.3637" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.696 318.95 0.15737 6.2949" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m-34.895 309.77s0 9.4031 0.61204 10.293c1.7248 3.2271 8.0678 5.6196 10.46 4.7294 1.391-0.7233 0.94588-9.57 0.94588-9.57" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m-33.003 310.71s0 7.0662 0.44512 8.1791c0.44512 1.1128 3.1715 2.7263 4.9519 3.394 1.7805 0.66767 3.5053 0.77896 4.4512 0.33382" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m-13.251 329.02s0.60146 5.3529-1.6136 5.5083" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m157.76 218.46 43.592-28.17" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m157.76 215.94 43.592-28.17" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m156.58 241.83 44.773-28.878" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m157.76 238.61 43.592-28.17" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m156.58 246.95c0.31475-0.0787 15.108-14.95 19.514-14.793 4.4064 0.15737-5.4294 11.252-9.285 11.567-3.8556 0.31475 3.3835-7.0031 6.0589-7.9473s-2.6753 4.8786-4.8786 5.508" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m196.24 218.7s-12.354 6.8457-14.872 11.252c-2.518 4.4064-3.9343 8.4981-0.62949 7.3965 3.3048-1.1016 9.285-3.2262 10.151-6.2949s1.9672-4.5638-1.3377-3.1475c-3.3048 1.4164-6.2949 1.9672-7.8686 4.3278-1.5737 2.3606-2.0458 4.1704 0.94424 2.8327 2.9901-1.3377 5.1933-1.1803 5.6654-3.0688 0.47211-1.8885 2.0458-3.2261-0.6295-1.9672-2.6753 1.259-4.7999 3.3835-4.7999 3.3835" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m176.93 244.72s1.4466-2.2256 4.1173-3.6722c2.6707-1.4466 1.1128 0.77896 5.0076-1.2241 3.8948-2.003 3.2271-2.2256 5.2301-4.4512s5.7865-4.1173 5.7865-4.1173" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m158.34 235.04s7.7896-5.7865 10.572-7.567 5.6752-3.3384 7.567-6.0091c1.8918-2.6707 4.1174-5.4527 4.1174-8.0121s0.33384-3.8948-3.7835-2.2256c-4.1173 1.6692-10.238 4.3399-12.686 6.6768s-3.2271 3.6722-3.2271 6.0091c0 2.3369 0.33384 4.8963 3.3384 3.4497 3.0046-1.4466 8.4572-3.8948 10.015-6.0091 1.5579-2.1143 2.4482-3.3384 2.6707-5.3414s4.4512-4.3399-1.2241-2.5594c-5.6753 1.7805-6.8993 2.782-9.2362 5.3414s-2.8933 3.6722-2.8933 4.785c0 1.1128-0.77896 2.1143 2.782 0.33383 3.5609-1.7805 3.3384-0.55639 5.4527-3.0045 2.1143-2.4482 2.4482-2.782 2.4482-4.0061 0-1.2241 0.33384-3.2271-2.3369-0.89023-2.6707 2.3369-2.8933 3.2271-3.7835 4.0061-0.89023 0.77896-3.2271 2.2256-3.2271 2.2256" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m200.41 194.32c-0.44512 0.11127-12.463 7.7896-14.466 10.015s-2.2256 5.6753-2.1143 7.4557-1.7805 4.6737-1.8918 6.1204 3.0046 0.11128 5.6753-1.7805c2.6707-1.8918 9.57-6.1204 9.7926-7.1219s3.6722-3.8948-0.22256-2.2256c-3.8948 1.6692-4.2286 3.2271-7.0106 4.2286-2.782 1.0015-5.1188 2.3369-3.4497 0.11128s2.8933-2.003 5.3414-3.5609c2.4482-1.5579 3.8948-1.0015 4.2286-3.0046s0.55639-3.3384-0.11128-3.0046c-0.66768 0.33384-3.3384 2.6707-5.0076 3.1158s-3.7835 1.7805-2.8933 0.22256c0.89024-1.5579 9.6813-6.788 9.6813-6.788" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m-16.867 252.68s-5.0278 6.126-5.0672 9.909c-0.02257 2.1698 5.496 3.2136 7.4434 3.3805 1.9474 0.16692 8.9226-4.3129 8.9226-4.3129" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m-16.469 257.39s-1.2787-0.25573-1.9868 0.66884c-0.70818 0.92456-0.60982 2.3999-0.33442 2.9114 0.2754 0.51146 1.3573 0.4131 2.3409-0.92457 0.98358-1.3377 1.141-2.4786-0.01968-2.6557z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-17.197 260.74s-0.4131-1.5541 1.259-1.6131" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-19.145 260.56s-0.72785 1.259-0.64916 1.6721c0.07868 0.4131 0.29507 1.1016 1.7311 0.39343 1.436-0.70818 4.1114-3.8556 4.9769-5.0359 0.86555-1.1803-0.23606-1.9672-0.94424-2.0065-0.70818-0.0393-1.8098 0.80654-2.5967 1.6721" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-21.918 262.37c0.19672 0.15738 2.4393 1.9278 5.8621 2.2819s9.8752-5.8228 9.8752-5.8228" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-37.734 257.37 4.2884-7.2785s2.9114 0.5508 5.9802 2.7147c-1.5344 2.9508-4.2097 7.3965-4.2097 7.3965" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-36.397 258.08 3.3442-5.7441s2.0458 0.27541 3.3442 1.5737c-1.0623 2.3999-3.0688 5.7835-3.0688 5.7835" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-34.705 255.6 3.1868 1.6131" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-27.8 253.91s2.4983 1.1016 3.4622 2.0655c-1.0229 2.0655-3.8556 5.8425-3.8556 5.8425" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-28.666 255.37 2.1245 1.2393s-2.6753 4.3474-2.8327 4.5835" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-30.417 258.38 1.9278 1.0819" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-25.44 258.2 2.4196 1.7704-2.8721 2.9901" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-26.758 262.61 1.8885-2.2819-1.3377-0.90489" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-34.588 265.08c2.4204 1.1036 7.261 3.3106 9.7879 4.5393 2.5269 1.2287 2.7402 1.479 2.7875 1.8825 0.04735 0.40347-0.07508 0.97796-0.30688 1.3212-0.2318 0.34325-0.57472 0.46373-3.0137-0.49674-2.439-0.96048-6.9653-2.9984-9.4011-4.1625-2.4358-1.1642-2.7768-1.4527-2.9341-1.9709-0.15738-0.51819-0.13115-1.2657 0.0096-1.6732 0.14071-0.40757 0.39578-0.47542 0.52312-0.5093 0.12733-0.0339 0.12733-0.0339 2.5477 1.0697z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-36.672 264.46s-0.23606 1.2983 0 1.6131c0.23606 0.31474 5.6261 2.8327 7.0424 3.5016 1.4164 0.66883 6.2162 2.8327 7.3965 2.7934" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m-19.492 349.92c-1.6747-0.73702-3.5422-1.5965-5.9997-2.8149-13.242-6.5655-30.268-18.027-31.937-19.585-1.6692-1.5579-2.0112-5.5382 1.8918-7.6783 9.4624-5.1887 10.794-7.3444 15.69-5.1188" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.688 326.3c0.04752 0.0212 13.136 5.8525 15.415 8.2867 3.9504 4.2204-3.8463 13.404-9.8554 15.741-4.5174 1.7568-5.7017 2.7589-11.637 0.35883" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.688 326.3s4.3e-5 3e-5 1.3e-4 6e-5" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-16.86 348.42c2.5898 1.0163 4.5895 1.4824 5.7241 1.2435 2.1143-0.44511 8.346-2.3368 11.907-7.567 3.5609-5.2301 3.3384-6.4542 3.3384-6.4542" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-58.11 322.53s0.0135 1.6501 2.5729 3.6531 24.481 15.023 30.824 18.472c2.2358 1.216 4.1031 2.0948 5.9568 2.9074" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m-15.93 344.83c1.7342 0.80373 2.9339 1.2954 3.3362 1.3385 2.2032 0.23606 8.6555-3.9343 10.308-6.9244 1.6524-2.9901 1.4164-4.2491 0.94424-4.7999-0.47212-0.55081-11.41-6.2949-11.41-6.2949" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-39.82 317.37s-1.6173-1.1096-2.9901-0.86556c-1.7704 0.31475-7.8081 3.3158-9.8358 5.1933-0.75759 0.70146-1.9672 1.1016 4.8786 5.8228 5.184 3.5752 21.423 12.294 29.958 16.419" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m106.65 273.32s4.173-2.3925 8.346-2.3925 7.9565 2.6151 7.9565 2.6151" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.1 274.33c0.33384 0 6.3429-4.5625 13.799-0.2782" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m17.574 319.45 3.2827 0.77896 1.0015-2.9489" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m17.129 315.33 5.564 2.0014 13.91-16.08-0.22255-1.8917-21.366-8.4572" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+     </g>
+     <path d="m25.31 305.51c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96121c-0.23736 0.21458-0.66245 0.27958-0.95307 0.14573l-1.4511-0.66828c-0.29065-0.13383-0.41699-1.2907-0.17963-1.5053" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+     <path d="m28.092 302.59c0.29062 0.13383 0.1527 1.1655-0.08466 1.3801l-1.0632 0.9612c-0.23736 0.21461-0.66245 0.27959-0.95308 0.14576l-1.4511-0.66828c-0.29065-0.13386-0.41699-1.2907-0.17962-1.5053" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+     <path d="m16.549 311.48c0.38948 0.0556 5.7539 1.8536 5.7539 1.8536l14.077-13.966" enable-background="new" stroke-linecap="round" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+     <path d="m22.303 313.33 0.38948 4.0061" enable-background="new" stroke-linecap="round" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+     <g stroke-width=".39687">
+      <path d="m31.431 299.78c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96121c-0.23736 0.21457-0.66245 0.27958-0.95307 0.14573l-1.4511-0.66829c-0.29065-0.13382-0.41699-1.2907-0.17962-1.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m26.46 301.71 1.4511 0.66828c0.29065 0.13385 0.33354 0.41436 0.09618 0.62894l-1.0632 0.96121c-0.23736 0.2146-0.66243 0.27961-0.95308 0.14576l-1.4511-0.66829c-0.29062-0.13385-0.33354-0.41436-0.09618-0.62897l1.0632-0.9612c0.23736-0.21458 0.66245-0.27959 0.95308-0.14573z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m29.799 298.9 1.4511 0.66831c0.29065 0.13386 0.33354 0.41434 0.09618 0.62895l-1.0632 0.9612c-0.23736 0.21458-0.66243 0.27959-0.95308 0.14573l-1.4511-0.66828c-0.29062-0.13383-0.33354-0.41434-0.09618-0.62894l1.0632-0.96121c0.23736-0.2146 0.66245-0.27958 0.95308-0.14576z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m23.678 304.63 1.4511 0.66831c0.29065 0.13385 0.33354 0.41433 0.09618 0.62894l-1.0632 0.9612c-0.23736 0.21458-0.66243 0.27959-0.95308 0.14573l-1.4511-0.66828c-0.29062-0.13383-0.33354-0.41434-0.09618-0.62894l1.0632-0.96121c0.23736-0.2146 0.66245-0.27958 0.95308-0.14575z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m21.179 304.09c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96121c-0.23736 0.21457-0.66245 0.27958-0.95307 0.14573l-1.4511-0.66829c-0.29065-0.13382-0.41699-1.2907-0.17963-1.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m23.961 301.17c0.29062 0.13386 0.1527 1.1655-0.08466 1.3801l-1.0632 0.9612c-0.23736 0.21458-0.66245 0.27959-0.95307 0.14573l-1.4511-0.66828c-0.29065-0.13383-0.41699-1.2907-0.17963-1.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m27.3 298.36c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96124c-0.23736 0.21457-0.66245 0.27958-0.95307 0.14573l-1.4511-0.66829c-0.29065-0.13382-0.41699-1.2907-0.17963-1.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m22.329 300.3 1.4511 0.66829c0.29065 0.13385 0.33354 0.41434 0.09618 0.62894l-1.0632 0.96121c-0.23736 0.21457-0.66243 0.27958-0.95307 0.14573l-1.4511-0.66829c-0.29062-0.13382-0.33354-0.41433-0.09618-0.62894l1.0632-0.9612c0.23736-0.21458 0.66245-0.27959 0.95308-0.14574z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m25.668 297.49 1.4511 0.66829c0.29065 0.13385 0.33354 0.41433 0.09618 0.62894l-1.0632 0.9612c-0.23736 0.21461-0.66243 0.27961-0.95308 0.14576l-1.4511-0.66831c-0.29062-0.13383-0.33354-0.41434-0.09618-0.62894l1.0632-0.9612c0.23736-0.21458 0.66245-0.27959 0.95308-0.14574z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m19.547 303.22 1.4511 0.66832c0.29065 0.13385 0.33354 0.41433 0.09618 0.62894l-1.0632 0.9612c-0.23736 0.21458-0.66243 0.27959-0.95308 0.14573l-1.4511-0.66828c-0.29062-0.13383-0.33354-0.41434-0.09618-0.62894l1.0632-0.96121c0.23736-0.2146 0.66245-0.27958 0.95308-0.14576z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m16.891 302.4c0.29062 0.13386 0.1527 1.1655-0.08466 1.3801l-0.82704 0.74771" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m19.673 299.48c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96121c-0.23736 0.21457-0.66245 0.27958-0.95307 0.14573l-1.4511-0.66829c-0.29065-0.13382-0.41699-1.2907-0.17962-1.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m23.011 296.67c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.9612c-0.23736 0.21458-0.6571 0.26729-0.95307 0.14574l-5.5819-2.2925" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m18.041 298.6 1.4511 0.66829c0.29065 0.13385 0.33354 0.41433 0.09618 0.62894l-1.0632 0.96123c-0.23736 0.21458-0.66243 0.27958-0.95308 0.14573l-1.4511-0.66828c-0.29062-0.13383-0.33354-0.41437-0.09618-0.62897l1.0632-0.96121c0.23736-0.21457 0.66245-0.27958 0.95308-0.14573z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m15.07 293.33c0.10277 6e-3 0.20215 0.0279 0.2894 0.0681l7.4707 3.0682c0.29065 0.13385 0.33354 0.41434 0.09618 0.62894l-1.0632 0.96121c-0.23736 0.21457-0.66243 0.27958-0.95308 0.14573l-5.6574-2.3235" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m15.714 301.74 0.99641 0.45889c0.29065 0.13385 0.33354 0.41434 0.09618 0.62894l-0.91119 0.82378" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m22.455 308.75c0.29062 0.13385 0.1527 1.1655-0.08466 1.3801l-1.0632 0.96123c-0.23736 0.21458-0.6571 0.26728-0.95307 0.14573l-4.0235-1.6524" enable-background="new" style="paint-order:markers fill stroke"/>
+      <path d="m16.228 306.05 6.0462 2.4832c0.29065 0.13385 0.33354 0.41434 0.09618 0.62894l-1.0632 0.96121c-0.23736 0.2146-0.66243 0.27961-0.95308 0.14576l-4.1194-1.6918" enable-background="new" style="paint-order:markers fill stroke"/>
+     </g>
+     <g stroke-linecap="round">
+      <path d="m52.07 319.06s-3.561-13.799-0.5564-13.799 26.485 0.89024 28.154 1.2241c1.6692 0.33383 2.782 14.466 2.782 14.466z" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m57.201 319.26s-2.1245-5.6654-0.86555-6.4523c1.259-0.78687 18.098 0.23606 18.885 0.70819 0.78687 0.47212 1.782 6.9101 1.782 6.9101" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m47.063 315.72-6.6768-27.82s37.724 2.6707 50.743-0.33384c-0.22255 10.572 0.77896 29.823 0.77896 29.823" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m41.332 287.85-0.27819-1.2241s32.042 2.423 51.32-0.88179c-0.55081 9.5211-0.70818 25.337-0.70818 25.337" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m33.006 334.81s2.0944-0.16692 2.929-0.27821c0.8346-0.11128 1.0015-0.8346 1.0015-0.8346l2.1421 0.0278c0.53039-0.82505 0.88286-3.7648-0.19474-4.7016-0.9948-0.86482-4.5903-0.80677-4.5903-0.80677l-0.63986 2.309s-1.7248 0-1.391 2.2812" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m33.654 330.52s3.1715-0.77899 3.2828 3.1714" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m32.485 331.91s2.782-0.72332 2.7263 2.3925" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m36.269 331.19 2.782-1.8361" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m33.191 332.56a0.92613 0.92613 0 0 0-0.42013 0.0987c-6.8841 3.3448-10.758 8.1423-14.402 12.766-3.6436 4.6238-7.0588 9.0646-13.131 12.148-7.5223 3.7357-16.907 6.003-30.387 0.75655-6.1336-2.3874-10.054-4.9921-13.29-7.1066-3.2359-2.1145-5.8539-3.8022-9.2423-4.0442-6.3926-0.45661-13.781 0.67593-13.781 0.67593a0.92616 0.92616 0 1 0 0.2775 1.8314s7.3006-1.0936 13.371-0.65989c2.8433 0.20306 5.1343 1.6388 8.3607 3.747 3.2264 2.1082 7.3212 4.826 13.632 7.2822 13.93 5.4217 24.073 3.056 31.89-0.82735a0.92613 0.92613 0 0 0 0.0072-4e-3c6.4646-3.2819 10.114-8.0412 13.748-12.653 3.6341-4.6118 7.2505-9.0851 13.757-12.246a0.92613 0.92613 0 0 0-0.38964-1.7648z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers fill stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+       <path d="m32.485 331.91s-2.8247-9.5833 0.08673-15.091c2.9114-5.508 10.859-15.344 10.859-15.344" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m92.059 299.51s8.8129-0.23606 11.646 1.4164c5.6147 1.7637 5.3563 9.5942 5.1146 12.905-0.20181 2.7646-0.78687 12.511-0.31475 15.659 0.47212 3.1475 1.7704 12.078 1.8098 15.344 0.0667 1.7122-0.31474 2.8327-2.6753 3.2261-2.3606 0.39344-9.8358 1.1803-10.229-0.39343-0.39344-1.5737-0.91956-7.5045-2.3606-10.308-1.3101-1.7009-2.9193-2.0593-8.9703-2.4393-5.264-0.33051-36.825-2.4393-39.343-2.2032-2.518 0.23604-4.2491 0.23604-4.013 4.1704 0.23606 3.9343 1.0229 9.5998 1.0229 9.5998l2.2032-1.259s-1.8098-9.9145-0.62949-12.039" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m82.38 334.84 1.5737 12.196 12.983 0.15737" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m83.561 344.91-37.77-1.259" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m52.48 333.11 1.1803 8.5768 24.157 1.0229 2.1245-1.5737-0.78686-6.4523" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m76.872 334.53 0.94424 8.1834" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m56.139 333.23 0.47212 4.2491 11.764 0.74753 1.2983-0.66884v-3.4229" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m68.217 334.05 0.15737 4.1704" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m43.745 346.49s-8.3669-0.27403-8.7008-1.6094c-0.33384-1.3354-1.9553-10.043-1.9553-10.043" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m52.07 319.06-6.7119-0.42878-0.62949-2.1246 1.044-0.80793 5.5657 0.25712" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m44.729 316.51 6.6097 0.31475" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m56.188 315.94 19.975 0.89025" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m56.466 316.83 19.808 0.94585" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m82.223 318.03 11.032 0.49038 0.14108 3.0601-10.947-0.63018" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m82.227 317.03 11.603 0.49739-0.57425 0.99534" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m109.16 313.16s7.3444-0.22256 10.572 0.44511c1.3354 11.684 2.5594 31.27 1.5579 33.718-5.4527 1.1128-10.905-0.77896-10.905-0.77896" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m119.73 313.61s-1.0015 13.02-1.0015 14.466c0 1.4466 2.5594 19.251 2.5594 19.251" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.38 328.07 10.126-0.4451" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m102.5 303.65a2.1577 1.6524 0 0 1-0.84658 1.7813 2.1577 1.6524 0 0 1-2.4752 0 2.1577 1.6524 0 0 1-0.84657-1.7813" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="100.42" cy="303.48" rx="2.0262" ry="1.0623" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m102.89 308.21a2.3526 1.8066 0 0 1-0.92305 1.9475 2.3526 1.8066 0 0 1-2.6988 0 2.3526 1.8066 0 0 1-0.92304-1.9475" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="100.61" cy="308.03" rx="2.2092" ry="1.1614" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.99 332.3 10.015-0.61204 1.2668-11.476" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m111.38 341.49 0.2754 2.3999 7.7506 0.15738-0.43278-2.4786z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m111.72 336.78 0.19474 1.7526s3.0602 1.4745 5.5362-0.11126c0-1.2797-0.0556-1.8639-0.0556-1.8639s-2.4482-0.9737-5.6753 0.22254z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m111.72 336.78s3.0324 1.7805 5.6753-0.22254" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m113.19 336.31s0.0835-1.391 1.1963-1.4188c1.1128-0.0278 1.3632 0.77896 1.4744 1.1684" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.38 328.07s-1.0015 1.391-3.8948 1.5579c-2.8933 0.16693-5.564-0.0556-6.0091 1.6692-0.44512 1.7248 0.77896 9.9595 1.6136 10.572 0.8346 0.61203 7.8452 1.5301 9.737-1.7805" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m109.6 338.64s-0.77896 1.1406-2.5594 1.7248c-1.1152 0.36594-5.4527 0.61203-5.9534-0.22257s-1.4466-9.0136-0.89024-10.071" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m93.83 317.53 0.17665 3.2685-0.60982 0.78687" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m92.02 294.02 11.295-0.0556-0.22256 6.5655" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m36.664 310.53s-5.1146-0.78687-6.1375-0.0787c-1.0229 0.70818-9.285 11.724-10.544 15.108-1.259 3.3835 0.70818 4.8786 2.0458 5.272 1.3377 0.39344 8.3014 1.141 9.9145 0.9049" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m19.707 326.3s6.4523 1.2196 11.803 0.78687" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m22.343 325.32 0.82621-1.259" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m23.395 325.56 1.1901-1.8098" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m24.566 325.65 1.4768-2.2704" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".39687">
+       <path d="m21.989 327.99 0.1377 1.5934 3.7573 0.49179v-1.6131z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m22.874 328.17 0.05901 0.8459 2.8327 0.29506" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m27.339 328.51 0.1377 1.5934 3.7573 0.49178v-1.6131z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m28.225 328.68 0.05901 0.8459 2.8327 0.29507" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m79.167 245.78-0.2782-2.2812s-0.0556-0.33384 1.0572-0.5564c1.1128-0.22256 1.8918 0.11128 1.8918 0.11128l0.2782 2.6151" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m80.335 242.61s-0.0147-1.8592-1.5579-2.1143c-2.4377-0.40303-7.3444 1.0015-10.015 4.2286-2.6707 3.2271-2.8933 6.4542-1.3354 14.689 1.5579 8.2347-1.7805 10.46-5.2301 10.794-3.4497 0.33384-7.567-0.11128-9.0136 5.7865-1.4466 5.8978-2.782 7.4557-8.6798 7.4557s-10.126 1.6692-8.0121 7.2332c2.1143 5.564 6.3429 8.0121-1.4466 19.474" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+     </g>
+     <path d="m29.393 353.5 51.304-3.7758c1.1334-0.0834 2.3282 0.37613 2.679 1.0303l3.3603 6.268c0.35074 0.65424-0.27934 1.2481-1.4127 1.3315l-51.304 3.7758c-1.1334 0.0834-2.3282-0.37613-2.679-1.0303l-3.3603-6.268c-0.35074-0.65423 0.27935-1.2481 1.4128-1.3315z" enable-background="new" stroke-width=".79375" style="paint-order:markers stroke fill"/>
+     <g stroke-linecap="round">
+      <g stroke-width=".52917">
+       <ellipse cx="40.723" cy="357.17" rx="6.4569" ry="2.6151" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="57.693" cy="355.95" rx="6.4569" ry="2.6151" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="74.663" cy="354.72" rx="6.4569" ry="2.6151" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m27.946 361.41-0.14486-7.0152" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m86.838 357.37-0.10186 9.8876c-8e-3 0.74226-0.27935 1.248-1.4128 1.3315l-51.304 3.7758c-1.1334 0.0834-2.3282-0.37611-2.6789-1.0303l-3.3603-5.0876-0.01402-2.6655" enable-background="new" style="paint-order:markers stroke fill"/>
+       <path d="m-57.448 351.53c-3.1383 0.018-2.6591 0.1987-5.636 1.3807-1.3401 0.50811-0.54296 2.5165 0.78083 1.9673 7.1957-2.8571 11.917-1.0682 19.703 1.7555 7.7859 2.8238 14.96 6.9632 19.953 9.2325 5.113 2.3241 12.162 3.4892 18.771 3.4892 6.6092 0 12.752-1.0741 16.164-3.8546 2.6749-2.1796 6.7404-2.7077 10.176-2.6004 3.4352 0.10735 6.1402 0.80151 6.1402 0.80151 1.3899 0.39227 1.9342-1.7218 0.52762-2.0495 0 0-2.915-0.75245-6.6017-0.86765-3.6867-0.1152-8.245 0.35854-11.579 3.0752-2.5967 2.1158-8.4722 3.3786-14.827 3.3786-6.3548 0-13.216-1.1724-17.896-3.2995-4.8001-2.1819-12.091-6.3879-20.107-9.2951-5.0099-1.817-10.339-3.1439-15.57-3.114z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;paint-order:markers fill stroke;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+      </g>
+      <path d="m32.965 362.14v9.5998" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m38.631 371.74v-4.3277l41.232-3.1474-0.0787 4.4064" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m88.754 284.4 2.636 1.4164 0.98358-0.0787 0.0393 1.141 1.141-0.27541 1.1016 0.74752 0.94424-0.0787-0.47212-1.495s-1.0623-0.0787-1.2196-0.31474c-0.15738-0.23606-0.59015-0.9049-0.59015-0.9049s-1.0229 0.19672-1.1016-0.0787c-0.0787-0.2754-0.39344-1.495-0.39344-1.495l-1.7704-1.4557" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m74.319 287.26 9.7135-13.791 12.511 4.013-4.2884 6.5506" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m96.544 277.48 0.42762 4.5814-2.5038 3.5053" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m93.554 286.61-1.2282 1.9636" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m41.443 292.74-6.5099 3.1715-12.241-11.406 18.639-8.7354 13.187 9.57-3.561 1.7248" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m41.888 295.13-7.0662 3.6166-12.63-11.406 0.94588-0.38948 0.05564-1.5023" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m23.138 286.96 11.752 10.514 6.8592-3.3442" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m40.48 289.2-3.895 2.0065s-6.5703-6.2949-7.1211-6.649l8.8129-4.1704 7.0424 6.2556" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+      <path d="m30.487 285.39 7.5932-3.5409 5.5867 4.7605" enable-background="new" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".79375">
+       <path d="m36.213 293.58s2.003-0.44511 2.7264 2.003c0.72331 2.4482-1.4466 2.8933-2.0587 2.3925" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m38.884 292.41s2.003-0.44512 2.7264 2.003c0.72332 2.4481-1.4466 2.8933-2.0587 2.3925" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m52.516 284.95s2.003-0.44512 2.7263 2.003" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m50.401 285.95s1.5038-0.33418 2.376 1.1691" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m127.31 315.88s-1.6524 0.55081-1.6524 1.9672c0 1.4163 0.39343 23.449 0.94423 24.865 0.55081 1.4163 0.70818 3.3048 6.2949 3.6196 5.5867 0.31475 27.287-0.28215 29.176-1.2264 1.8885-0.94425 3.3104 0.64066 3.506-8.026 0.17074-7.5667-0.49394-12.615-2.0689-14.327-2.62-2.8465-16.804-0.77451-16.804-0.77451" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.97 335.78s-0.86555-0.47212-1.1803 2.1245c-0.31475 2.5966-0.78687 6.2949 0.23606 8.1047 1.0229 1.8098 1.6524 3.6983 16.445 2.754 14.793-0.94425 29.507-0.94425 32.419-2.9901 2.9114-2.0459-0.71551-11.112-1.5737-11.96-1.069-1.057-6.3736-0.39344-6.3736-0.39344" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m124.35 343.87s-0.16692 2.8376 0.44511 4.0617c0.61204 1.2241 2.0587 1.7248 3.7835 2.17 1.7248 0.44511 5.1745 0.77896 21.31 0.11128 16.136-0.6677 21.254-1.2797 23.313-2.2812 2.0587-1.0015 1.7526-3.5192 1.8083-5.4666" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.51 325.71c-0.15737-0.39344-4.9572-22.111-4.9572-22.111s0.47212-1.8885 2.3606-0.55081c1.5137 5.6492 5.4294 23.37 5.4294 23.37" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.8 306.43 2.6151 11.184s1.5023 1.1684 3.4497-0.72332c-1.391-6.6768-2.7263-11.184-2.7263-11.184s-2.5038-2.7263-3.3384 0.72332z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m133.92 308.21s0.66768 0.0556 1.1128 0.66768c0.44512 0.61203 1.6692 6.5099 1.6692 6.5099l-0.89024 0.38947" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m135.42 317.5 2.2812 9.1805" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m132.97 318.06 1.9474 8.7354" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.68 318.95s1.5579 5.9534 2.7264 6.788c1.1684 0.8346 6.955 1.5023 12.241 1.1684 5.2858-0.33383 6.1204-0.66768 6.1204-2.8376 0-2.17-1.8918-8.179-4.2843-9.0693-0.63653-0.23683-5.5083-0.33383-5.5083-0.33383" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.91 315.11 1.7805-0.22257" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m135.75 318.22s5.4784-0.47144 6.955 0.36166c1.2648 0.71361 3.5609 5.4249 3.2271 7.3722" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m130.75 318.56 2.2256-0.16692" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m127.8 318.56s-1.8631 1.3298-1.8631 2.2757" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m146.67 325.24s-0.15737 3.4622 1.5737 4.7212c1.7311 1.259 13.849 0.31474 14.872 0 1.0229-0.31475 2.0784-0.9029 2.0784-2.0832" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m147.02 324.06s9.4424-0.9049 11.646-0.51147c2.2032 0.39344 3.1475 1.0229 3.777 2.2032 0.62949 1.1803 0.78687 4.013 0.78687 4.013" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m145.93 325.96-0.2782 20.03" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.66 323.27s0.70817 3.0688 2.9901 4.5638 15.108 1.4164 17.154 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.66 325.48s0.70817 3.0688 2.9901 4.5638c2.2819 1.4951 15.108 1.4164 17.154 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.89 327.99s0.70007 3.0688 2.9558 4.5638c2.2558 1.4951 14.935 1.4164 16.957 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.04 330.59s0.68931 3.0688 2.9104 4.5638c2.2211 1.495 14.705 1.4164 16.697 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.2 333.66s0.67554 3.0688 2.8523 4.5638c2.1767 1.495 14.411 1.4164 16.363 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.2 336.49s0.67554 3.0688 2.8523 4.5638c2.1767 1.4951 14.411 1.4164 16.363 0.47213" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.13 339.17s0.67554 3.0688 2.8523 4.5638c2.1767 1.495 14.411 1.4164 16.363 0.47212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.8 330.51s-0.15738 1.1803 3.1475 1.4164c3.3048 0.23606 12.747 0.47212 16.603-1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.8 333.03s-0.15738 1.1803 3.1475 1.4164c3.3048 0.23606 12.747 0.47212 16.603-1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.65 335.63s-0.15738 1.1803 3.1475 1.4164c3.3048 0.23606 12.747 0.47212 16.603-1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.81 338.7s-0.15737 1.1803 3.1475 1.4164c3.3048 0.23606 12.747 0.47212 16.603-1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.65 341.53s-0.15738 1.1803 3.1475 1.4164c3.3048 0.23607 12.472 0.47213 16.327-1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m145.7 344.24s-0.15737 1.1803 3.1475 1.4164c3.3048 0.23606 11.646 0.11803 15.501-1.5344" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".26458">
+       <path d="m132.3 316.33c-0.10809 0.036 1.5771 0.74475 3.0046-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m132.16 315.28c-0.10809 0.036 1.5771 0.74475 3.0046-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m131.91 314.25c-0.10809 0.036 1.5771 0.74475 3.0046-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m131.69 313.19c-0.10809 0.036 1.5771 0.74475 3.0046-0.66767" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m131.38 312.02c-0.10809 0.036 1.5771 0.74474 3.0046-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m131.05 310.94c-0.10809 0.036 1.5771 0.74475 3.0045-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m130.66 309.66c-0.10809 0.036 1.5771 0.74475 3.0045-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m130.36 308.38c-0.10809 0.036 1.5771 0.74475 3.0045-0.66767" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m130.02 307.15c-0.10809 0.036 1.5771 0.74475 3.0046-0.66767" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m129.83 306.1c-0.10809 0.036 1.5771 0.74475 3.0046-0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m-62.436 185.86 16.024-6.2316s1.3354 4.0061 5.7865 3.3384c2.642 9.8599 7.9851 34.877 7.9851 34.877s-5.1189 2.6707-3.3384 9.1249c-10.421 6.0168-25.79 14.754-25.79 14.754" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m111.49 247.4s7.8782 5.644 9.9039 8.1234c-5.6753 1.2241-16.247 4.3399-17.693 7.6783-5.564-4.1173-9.9039-9.57-9.9039-9.57s5.7865-6.0091 17.693-6.2316z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m103.7 263.2s2.0463 2.0841 16.603-3.9748" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".39687">
+       <path d="m104.77 262.17c0.19672 0.11802 6.6097-0.55081 15.698-4.4064" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m105.95 261.43c0.70818 0 13.062-3.777 14.99-5.1146-0.66884-0.0393-0.70818-0.5508-0.70818-0.5508" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m95.836 253.56 1.6524 1.7311s2.9508-2.5967 7.3965-3.777c-0.78523-0.6565-1.7907-1.588-1.7907-1.588s-4.2682 1.1946-7.2583 3.6339z" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m112.72 298.03s6.6768-4.3399 13.799-5.0076c0.77895 1.4466 3.8948 4.1173 3.8948 4.1173s-9.1249 5.7866-14.466 5.564c-0.44511-2.8933-3.2271-4.6737-3.2271-4.6737z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".39687">
+       <path d="m115.23 296.72s3.5409 2.7147 3.6196 5.5867" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m123.85 293.53c0.15737 0.15737 2.3212 3.7376 4.0917 4.7212" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="121.57" cy="297.31" r="1.8885" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m124.79 294.8 2.4203-0.6955" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m125.57 295.8 2.17-0.8346" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m126.54 296.86 2.0587-1.0571" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m127.24 297.67 2.1978-1.2241" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m113.94 298.89 2.3369-1.2241" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m114.89 299.86 2.17-1.2241" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m117.84 299.67-2.2812 0.97369" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m115.78 301.67 2.6429-0.69548" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m169.14 314.61 12.797-4.8963 10.349 8.346v13.987l-13.075 5.7858-10.071-9.2009z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m169.14 314.61 10.349 9.0136 12.797-5.564" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m179.49 323.62-0.2782 14.209" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m169.3 319.73 9.9039 8.179 12.908-5.3971" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m192.12 327.74-12.742 5.6196-10.349-9.0136" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m174.09 312.94 9.3475 8.6242 0.22256 14.188" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m178.48 311.1 9.3475 8.6242 0.38948 13.799" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m184.49 311.72-12.575 4.9519-0.11129 13.966" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m175.4 334.24 0.35294-13.858 12.481-5.4257" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m41.116 357.39a6.4569 2.6151 0 0 0-5.6053 1.3204 6.4569 2.6151 0 0 0 5.2116 1.0769 6.4569 2.6151 0 0 0 5.6053-1.3208 6.4569 2.6151 0 0 0-5.2116-1.0764z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m58.086 356.17a6.4569 2.6151 0 0 0-5.6048 1.3208 6.4569 2.6151 0 0 0 5.211 1.0769 6.4569 2.6151 0 0 0 5.6053-1.3209 6.4569 2.6151 0 0 0-5.2116-1.0769z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m75.056 354.94a6.4569 2.6151 0 0 0-5.6048 1.3209 6.4569 2.6151 0 0 0 5.2116 1.0769 6.4569 2.6151 0 0 0 5.6048-1.3208 6.4569 2.6151 0 0 0-5.2116-1.0769z" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m166.58 188.08 30.936-17.36" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m165.96 185.85 30.713-17.137" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m158.08 210.59s10.859-4.0917 14.478-8.4981c3.6196-4.4064 1.1016-6.1376 7.0818-7.2392s7.5539-1.259 9.1276-5.8228c1.5737-4.5638 4.0917-5.1933-1.5737-5.0359-5.6654 0.15738-6.767 0.47212-8.8129 2.6754-2.0458 2.2032-1.4164 4.2491-4.2491 5.0359-2.8327 0.78687-4.8786-0.15737-4.7212 2.3606 0.15737 2.518 3.3048 3.9343 0.62949 6.2949-2.6753 2.3606-1.1016 3.777 1.259 0.62949 2.3606-3.1475 1.8885-3.3048 1.8885-5.8228 0-2.518-1.8885-2.9901 2.2032-2.3606s7.3965 1.4164 9.1276-0.62949c1.7311-2.0458 4.0917-3.6196 3.1475-5.508-0.94423-1.8885-2.0458-2.518-5.3507-0.15738-3.3048 2.3606-5.508 3.9343-3.4622 4.2491 2.0458 0.31475 2.3606 0.47212 4.7212-1.259 2.3606-1.7311 3.3048-2.3606 1.4164-2.3606-1.8885 0-4.0917 2.3606-4.0917 2.3606" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m198.68 173.93c-0.78686 0-10.859 5.6654-11.016 6.9244-0.15737 1.259 3.9343 0.15738 7.2392-1.259" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m166.91 192.2c0.44512-0.22256 1.6136-1.1128 3.2271-1.3354 1.6136-0.22256 3.394-1.0015 4.4512-2.4482 1.0572-1.4466 2.2812-3.1715 0.38948-2.17s-8.346 3.7279-8.346 3.7279" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m175.48 201.88c0.44512-0.22256 1.1128-4.2286 5.6752-5.4527 4.5625-1.2241-5.6752 5.4527-5.6752 5.4527z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m197.29 183.85c-0.66767 0.11128-3.5609 1.3354-5.4527 4.0061-1.8918 2.6707-4.4512 5.6753-3.0046 5.1189s8.346-5.3414 8.346-5.3414" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m166.91 197.54s2.782 0 2.003 1.1128c-0.77896 1.1128-2.5594 2.3369-3.1158 3.5609s-7.7896 5.4527-7.7896 5.4527" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m162.96 170.94 34.779-18.727" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m163.11 168.81 33.284-17.626" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m164.61 182.82s3.4622-1.8098 7.6326-3.3835 5.6654-4.013 6.0589-5.8228 0.47212-2.754 2.1245-4.3278c1.6524-1.5737 15.895-9.5211 15.895-9.5211" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m196.4 161.1s-14.006 8.4195-15.029 10.072c-1.0229 1.6524-1.0229 4.4064 0.70818 3.0688s15.423-7.4752 15.423-7.4752 0.78687-2.4393-0.15737-2.2819c-0.94423 0.15737-13.534 7.4752-14.085 7.3178-0.55081-0.15738 12.59-8.2621 12.59-8.2621" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m163.03 180.77c1.0229-0.31475 7.3965-2.9901 9.285-4.4851 1.8885-1.495 3.1475-2.6753 3.4622-4.3278 0.31475-1.6524 0.78687-3.9343 2.6753-5.1933 1.8885-1.259 17.311-9.6784 17.311-9.6784l0.15738-1.5737s-19.593 10.229-21.56 11.331c-1.9672 1.1016-1.5737 5.272-1.8885 6.2162-0.31475 0.94424-6.6097 5.272-7.6326 4.8786-1.0229-0.39343-2.3606-1.4164-1.0229-2.9901s5.1146-4.013 6.2949-4.1704c1.1803-0.15737 0.62949 1.495-0.0787 2.518-0.70818 1.0229-4.4064 3.3835-4.4064 2.4393s3.3835-2.5966 3.3835-2.5966" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m162.17 173.22 7.7113-4.1704" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m146.32 31.847v41.396" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m150.21 34.808v39.343" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m142.02 34.808v36.668" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m159.23 31.179v47.405" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m165.79 153.63 32.261-16.052" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m166.58 151.58 29.271-14.95" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m173.34 90.361 25.022-12.178" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m175.39 77.771 21.403-9.9751" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m175.05 76.228 21.683-9.8697" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m115.17 358.12c-0.5564-0.11128-4.8963-0.44511-5.564-2.4481-0.66767-2.003-1.1128-3.1158-2.8933-1.6692-1.7805 1.4466-1.7805 1.2241-5.0076 1.2241-3.2271 0-5.4527 0.33385-4.5625 3.0046 0.89023 2.6707 5.4527 1.0015 4.1173 4.0061-1.3354 3.0046-0.44512 1.1128-2.5594 1.2241-2.1143 0.11128-1.2308-1.0464-0.56315-2.1592 0.66768-1.1128 0.5373-1.5714 0.5373-1.5714" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m97.584 359.23s-2.2256 2.3368-1.8918 4.6737c0.33384 2.3369 1.7805 2.3369 3.2271 4.2286 1.4466 1.8917 2.8933 4.1173 5.1189 1.7805 2.2256-2.3369 4.1173 1.2241 6.6768-0.89025 2.5594-2.1143 4.785-2.1143 2.8933-5.0076-1.8918-2.8933-1.3354-4.0061-4.8963-3.6722-3.561 0.33383-7.0106 2.3369-4.3399 4.4512 2.6707 2.1143 3.8948 3.2271 5.0076 1.3354 1.1128-1.8918 2.1143-2.0031 0.44512-3.2271-1.6692-1.2241-3.2271 0.77896-3.2271 0.77896l1.0015 1.0015" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m113.33 363.53s3.2092-2.5896 1.8739-5.3716" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.52 360.02s0.0787-2.6831-3.5935-2.4605c-3.6722 0.22256-2.003 3.1158-2.6707 5.6753-0.66767 2.5594-3.2271 4.5624-3.2271 4.5624" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m144.77 317.39c0.77895-0.33385 44.289-15.468 44.289-15.468l4.0061 3.7835-10.46 4.2286" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m168.91 315.61-15.857 5.564" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m145.77 318.95 43.844-15.913" enable-background="new" stroke-width=".26458" style="paint-order:markers fill stroke"/>
+      <path d="m168.62 257.81s15.895-0.31474 21.56-4.0917c0.78687 7.0818 9.285 20.301 9.285 20.301" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m192.38 294.16 8.3408-4.0917" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".26458">
+       <path d="m27.033 101.51s-1.8918 3.1158 0.8346 4.785c2.7263 1.6692 6.0091-2.6707 4.8407-4.5068" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m38.383 109.63s-1.4466 0.61204-0.89024 1.9474c0.5564 1.3354 1.6692 0.72332 2.4482-0.11128 0.77896-0.8346-0.22256-2.5038-1.5579-1.8361z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m36.428 120.42s-0.5508-2.518-2.3606-1.6524c-1.8098 0.86555-1.1016 3.2262 0.70818 4.013 1.8098 0.78687 1.8885-1.5737 1.6524-2.3606z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m42.801 136.63s-0.94424-1.5737-3.5409-1.3377c-2.5967 0.23607-5.4294 7.79-0.62949 8.5768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m55.391 101.38s-1.3377-2.754-4.1704-1.3377c-2.8327 1.4164-2.5966 5.0359-1.4164 6.531 1.1803 1.495 3.3835 1.3377 4.8786-0.86555s0.70818-4.3278 0.70818-4.3278z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m53.684 110.19c0.28397-0.61807-1.6136-1.2797-2.003-0.38948-0.38948 0.89023 1.0572 2.4482 2.003 0.38948z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m82.283 117.31s-1.7248-0.22256-2.17 1.3354c-0.44511 1.5579-0.61203 3.5609 2.0587 3.2827 2.6707-0.27819 3.0602-1.8918 2.5038-3.1715-0.5564-1.2797-2.3925-1.4466-2.3925-1.4466z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m95.97 102.79s-2.003 5.1189-0.89023 6.3986c1.1128 1.2797 5.3414 3.0046 7.4001 2.2256s3.0602-4.0061 3.0602-4.0061" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m107.04 108.18s-2.2256 2.2812-0.89023 2.7264c1.3354 0.44512 2.4482-2.17 2.4482-2.17" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".52917">
+       <path d="m36.936 147.91s6.8993-3.3384 13.131-0.44512" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m38.216 145.63s4.5625-1.6136 8.179-0.38948" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m36.102 150.47s9.1249-3.0602 12.686-0.5564" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m36.992 152.53s4.4512-2.0587 8.346-1.1684" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m69.653 213.34s6.2316-2.003 10.905 5.4527" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m86.122 219.91s6.0091 9.0136 5.6752 18.472" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m94.023 231.82v4.1173" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m88.125 231.82s0.77895 2.4482 1.0015 4.3399" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m71.322 210.34s3.4497-0.66767 6.3429 2.1143" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m74.549 208.23s2.003-0.33383 4.3399 1.4466" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m111.49 211.23c-0.72331-1.4466-2.5594-2.5594-4.2286-0.44512-1.6692 2.1143-3.1158 5.3414 0.5564 6.1204 3.6722 0.77896 4.3955-4.2286 3.6722-5.6752z" enable-background="new" stroke-width=".26458" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m114.94 228.26s-3.561 5.6753-9.1249 6.1204" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m114.94 230.15s-2.4482 2.4482-3.4497 3.0045" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m124.18 236.71s-3.1158-2.4482-1.3354-5.2301" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m108.43 185.57s-8.1047 4.013-9.3637 7.4752" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m102.52 191.79c0.31474-0.31475 1.9672-2.8327 4.2491-3.6983" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m103.94 186.28c-0.31475 0-3.0688 1.3377-4.2491 4.1704" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m95.128 181.48s-5.8228 0.62949-8.1834 2.3606" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m93.082 180.22c-0.78687 0-3.777 0.55081-4.7999 1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m84.741 174.08s0.55081-4.7212-5.0359-4.0917c-5.5867 0.62949-7.5539 8.6555-6.3736 10.937s5.1146 2.3606 7.4752 1.5737c2.3606-0.78686 4.4064-4.5638 3.9343-8.4194z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m90.879 171.09s-1.495 0.62949-1.4164 2.518c0.0787 1.8885 1.4164 1.495 2.3606 0.62949 0.94424-0.86555-0.39343-3.0688-0.94423-3.1475z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m42.565 161.97s-3.9343 2.9901-3.9343 8.4981c0 5.508 5.8228 8.8129 8.8129 8.026s2.3606-20.458-4.8786-16.524z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m37.057 185.1s-5.1933-0.47211-5.1933 4.2491-0.94424 10.859 3.3048 9.4424c4.2491-1.4164 4.5638-13.062 1.8885-13.691z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m47.129 190.92s-4.7212 2.6753-3.1475 4.2491 6.6097-4.4064 3.1475-4.2491z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m58.46 195.8c-1.4164 0.47212-5.3507 4.7212-2.9901 7.2392 2.3606 2.518 9.1276-8.1834 2.9901-7.2392z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m48.545 183.68s-2.518 0.94424-0.15737 2.518c2.3606 1.5737 3.4622-2.2032 0.15737-2.518z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m58.617 181.79s-3.777 1.7311-1.8885 3.1475c1.8885 1.4164 5.3507-4.0917 1.8885-3.1475z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m27.929 164.8s-3.777-1.7311-5.3507 0.47212c-1.5737 2.2032-1.8885 7.3965 1.7311 8.4981 3.6196 1.1016 5.0359-7.7113 3.6196-8.9703z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m35.641 171.25s-2.6753-0.47212-2.9901 2.0458c-0.31474 2.518 0.47212 5.8228 0.47212 5.8228" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m109.29 155.99s-1.4164-5.0359-5.3507-4.5638c-3.9343 0.47211-7.8687 9.285-1.8885 11.016 5.9802 1.7311 8.026-3.777 7.2392-6.4523z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m120.31 164.96c-0.94423-0.15737-5.9802 0-7.5539 2.2032-1.5737 2.2032 3.777 2.2032 5.8228 1.1016 2.0458-1.1016 2.6753-3.3048 1.7311-3.3048z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m132.43 179.59s-5.5081 3.1475-5.8228 6.1376c-0.31474 2.9901 3.6196 3.4622 6.2949 0.47212 2.6753-2.9901 1.1016-6.6097-0.47212-6.6097z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m134.16 164.96s-7.2392 0.31475-8.8916 3.3835" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m135.65 166.06c-0.55081-0.15737-3.777 0.0787-5.272 1.1803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m160.46 186.08s-1.7805-2.8933-3.8948-1.1128c-2.1143 1.7805-3.3384 3.0045-0.66767 4.0061 2.6707 1.0015 4.8963-0.44512 4.5625-2.8933z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m162.79 188.42s-2.8933 1.6692-1.2241 2.4482c1.6692 0.77896 2.6707-2.5594 1.2241-2.4482z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m94.69 176.51s4.4512-2.8933 6.8993 0c2.4482 2.8933 1.1128 6.6768 1.1128 6.6768" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+     </g>
+    </g>
+    <g stroke-dasharray="1.5875, 1.58749999999999991" stroke-linecap="round" stroke-linejoin="round" stroke-width=".52917">
+     <path d="m87.902 53.992s5.2301-2.782 15.245-1.8918c12.508 1.2802 27.601 10.067 21.143 23.369-1.5579 3.1158-4.4512 10.015-3.4497 13.687" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m131.64 95.499s5.7865-3.2271 8.0121-14.8" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m120.67 90.881s-1.9474 3.6722-1.8361 7.6783" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m117.34 99.394s1.2241-1.3354 4.8407-0.05564c3.6166 1.2797 5.4527 4.0061 5.4527 4.0061" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m114.16 115.86c0.38948-0.22256 5.9534-11.239 6.5098-14.967" enable-background="new" style="paint-order:markers fill stroke"/>
+    </g>
+    <g>
+     <g stroke-linecap="round" stroke-linejoin="round">
+      <g stroke-width=".52917">
+       <path d="m150.92 82.335s-1.9672-2.2819-4.3278-1.6524c-2.3606 0.62949-5.3507 3.4622-3.777 5.9802s4.8786 3.2261 6.9244 1.1803c2.0458-2.0458 1.8885-4.2491 1.1803-5.5081z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m159.57 79.109s2.4393 2.4393 2.4393 5.1933" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m161.46 79.266s1.259 1.259 1.4164 2.6753" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m138.42 125.32s4.4512-20.03 9.57-25.372c5.1189-5.3414 17.248-3.4497 22.59-8.7911" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m63.181 182.42s5.0359 19.278 10.308 25.652" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m88.675 204.46s5.3507-2.0458 9.285 6.1376c3.9343 8.1834-0.31474 27.855 2.6753 32.419" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m110.08 186.36s13.691 12.118 21.875 13.062c8.1834 0.94424 11.488-6.1376 20.458-6.1376 8.9703 0 6.4523 7.8686 2.8327 8.026" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m27.366 222.02s6.5655 3.3384 15.357 2.5594c8.7911-0.77895 16.803-5.3414 19.585-14.132" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.455 186.25s2.782 6.3429 9.737 8.7911" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m12.232 209.23c-0.66768 0.33384-3.8948 0.22256-3.8948 4.4512s2.4482 4.2286 4.5625 2.3369c2.1143-1.8918 1.8918-6.5655-0.66768-6.788z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m17.462 207.67s-1.7805-0.44512-0.5564 1.6692c1.2241 2.1143 1.8918-0.33384 0.5564-1.6692z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m44.768 31.032-4.0917 15.737-6.6097 5.9802-0.62949 9.7571-8.4981 3.4622v17.311" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m30.067 64.007-0.09219 7.627" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m41.974 40.973-9.4806 4.5368-6.2949-3.1475-5.6654 1.8885" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m29.369 43.754-4.6737 4.2286" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m62.079 61.247 2.2032-8.4981 10.072-4.4064 5.6654-5.9802 29.586-9.1276" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m69.633 50.231 4.4064-18.57" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m94.498 38.271 15.737 2.8327 5.0359 4.4064 14.478 1.8885" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m112.12 42.677 10.387-1.8885 5.9802-9.1276" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-19.649 65.12c0.33384 0.5564 3.5053 7.0106 3.7279 6.8437 0.22256-0.16692 3.0602-3.8391 3.0602-3.8391z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-22.398 63.198 0.32713 2.141 1.7719-0.21959-0.27261-2.141z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.3422 61.759 0.15762 0.27543 3.4623 7.121 1.3198-1.4247 2.2211 2.251 1.062-1.0232-2.4123-2.1678 1.2718-1.373z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m2.1615 81.478 0.77896 3.5888 7.5114-1.1963-0.61204-3.3106s-3.4218 0.47294-3.8113-1.8083c-0.38948-2.2812 2.0587-1.3075 2.0587-1.3075s-1.2519-1.8083-3.1715-1.2797c-1.9196 0.52858-1.9752 3.4218-0.89024 4.8128-1.085 0.25038-1.8639 0.50076-1.8639 0.50076z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-16.41 78.716 7.79-1.141 1.259 7.1998-1.4557 2.4393-6.1769 1.1803z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-15.087 79.753 0.2782 1.6692 2.0308-0.33384-0.29211-1.6692z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-12.806 80.17 3.3384-0.50076" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.863 81.422 0.63986 4.6459" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m4.3871 93.496 1.2797 6.8437 6.7881-1.3354-1.0572-6.7324z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m12.622 111.13s-3.8391-2.7264-6.1204 1.2797c-2.2812 4.0061 2.2256 7.1219 4.8407 6.0647" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m12.9 134.39s-0.52858 0.89024-1.2241 0.33384-0.89024-2.3369 1.1684-2.309c2.0587 0.0278 2.5872 3.1993 1.0015 4.3121-1.5857 1.1128-5.0076 0.22256-5.8144-3.0046-0.80678-3.2271 3.7835-7.4279 7.7061-1.7526" enable-background="new" marker-end="url(#marker3845)" marker-start="url(#DotS)" style="paint-order:markers fill stroke"/>
+      </g>
+      <path transform="matrix(.24866 0 0 .24863 -55.635 40.691)" d="m218.59 362.38 7.7892 13.775 15.763 1.3924-10.693 11.665 3.5467 15.422-14.398-6.5654-13.571 8.1387 1.7949-15.722-11.934-10.392 15.507-3.1514z" enable-background="new" stroke-width="2.1282" style="paint-order:markers fill stroke"/>
+      <path d="m-3.981 138.93-2.2921 0.95887-1.7421-2.4132-1.8153-2.3586 1.7562-2.4032 1.6817-2.4559 2.8275 0.92798 1.6744 0.56537" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".52917">
+       <path d="m-8.345 111.29-4.3671 3.8556 1.1016 5.9408 5.39 2.636 4.2097-3.2655-0.70818-5.9802z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-12.712 115.15 5.5081 2.636 0.98358 5.9408" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.2041 117.78 4.4851-3.3048" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.1829 161.43 2.6151-10.905 3.3384 0.94587-3.0602 11.017-2.17 2.17z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-14.03 151.14s3.4497-0.0556 3.8948 3.5053c0.44512 3.561-1.5023 6.2873 0.8346 8.4016 2.3369 2.1143 4.3955 2.1143 4.3955 2.1143" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-2.9017 152.7 3.0602 0.66768" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.1829 161.43 2.8933 1.0572" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.2881 152.92-2.3369 8.9024" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m11.12 147.52s-3.8948 3.8948-2.6151 8.4016c1.2797 4.5068 7.3444 6.2316 8.8467 6.0647-5.2301 1.1128-10.238 1.6136-10.238 1.6136" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m13.289 148.41c-0.05564 0.22256 1.8918 11.462 1.8918 11.462l2.17 2.1143s1.0572-2.2256 1.1128-2.5038c0.05564-0.2782-2.003-11.684-2.003-11.684s-2.2812-1.1128-3.1715 0.61204z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m15.07 158.98s1.6136-0.83459 3.1715-0.5564" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m14.736 156.48s1.391-0.66767 3.0602-0.61203" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-14.419 101.81 9.5144-1.6414 0.44512 2.5872-9.5422 1.5857z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.195 101.67c0 0.11129 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.832 101.51c0 0.11128 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-10.496 101.29c0 0.11128 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-9.1611 101.17c0 0.11128 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.7145 100.9c0 0.11128 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.3792 100.65c0 0.11128 0.33384 2.309 0.33384 2.309" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-14.92 98.448c0.33384 0 9.2362-1.7248 9.2362-1.7248" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.8506 95.805 0.33384 2.003" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-15.115 97.53 0.33384 2.003" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-13.751 97.113-1.1684 1.3354 1.5857 0.72332" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.8521 98.058 1.1684-1.3354-1.5857-0.72332" enable-background="new" style="paint-order:markers fill stroke"/>
+       <circle cx="-6.2679" cy="203.58" r="3.4775" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.6852 199.82s0.5564-4.7294-2.1699-4.5068c-2.7263 0.22256-2.8933 4.0061-0.61204 6.3429-3.8391-1.391-7.2332 4.3955-0.38948 3.1158-5.6753 5.1745 0.61204 10.015 2.8933 2.3925 2.003 6.6768 8.2903 3.7835 3.9504-1.7248 4.6737 1.1684 6.7881-7.8452-0.16692-3.8392 5.1745-4.6737-1.3354-9.6257-3.5053-1.7805z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-3.3468 211.12s0.77896 5.0632 0.77896 5.8422c1.2797 0.22256 1.4466-0.0556 1.4466-0.0556s-0.33384-4.5624-1.0015-6.0647" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.1212 215.12c0.11128-0.22256-1.1128-5.7309 5.3971-5.397-0.2782 3.5609-2.9489 5.564-5.3971 5.397z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.1212 215.12s3.2271-4.2843 5.3971-5.397" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-0.35836 211.32 0.51146 2.0458" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m1.1957 210.34 0.45245 1.4557" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m1.0973 212.46 2.2622 0.11803" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m2.4153 211.2c0.09836 0 1.377-0.0984 1.377-0.0984" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-0.31901 214.25 1.7901 0.059" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-11.06 213.98s2.636-2.518 5.7048-3.6196" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.3813 208.9s3.2655-0.78687 6.1769-0.51146" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-9.5647 214.8c1.1803-0.80654 3.1704-2.5711 6.2179-3.6855" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-2.1227 210.84s1.725-0.52144 3.3184-0.50177" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.6369 215.71s2.2819-2.0852 4.4458-2.3606" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-4.214 211.54 0.43278 1.9278" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-5.2566 212.13 0.59015 1.6131" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-6.5746 212.68 0.51146 1.6524" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-7.4401 213.45 0.51146 1.5737" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-8.4434 213.92 0.59015 1.6721" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m-1.1452 210.67 0.25573 1.318" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <path d="m189.08 347.51s-32.104 9.9145-34.15 10.859c-2.0458 0.94425-2.518 7.2392-2.3606 8.4982 0.15737 1.259 10.229 8.4981 10.229 8.4981l32.692-1.1204s4.7632-14.774 4.4484-15.561c-0.31474-0.78687-8.4981-11.96-10.859-11.173z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m154.46 359.31 19.2 15.895" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <path d="m178.41 374.13 19.547-7.5506" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+      <ellipse cx="184.05" cy="356.17" rx="9.8305" ry="6.176" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <path d="m174.22 356.05v4.2424c0 3.4109 4.4012 6.176 9.8305 6.176 5.4292 0 9.8305-2.7651 9.8305-6.176v-4.4785" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+      <g stroke-width=".39687">
+       <ellipse cx="184.1" cy="356.78" rx="7.1168" ry="4.4512" enable-background="new" style="paint-order:markers fill stroke"/>
+       <ellipse cx="184.05" cy="357.17" rx="5.5411" ry="3.4497" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m158.62 359.62 6.5099-2.003 15.468 12.463-6.176 2.2256z" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m152.49 364.39s-1.9672-2.8327 0.82621-3.6589" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m151.78 362.93s-1.5737 2.3606-4.5638 1.9672c-2.9901-0.39341-6.3736-0.78685-6.3736-0.78685l-0.0787 1.1803s9.8425 1.451 11.067-1.8318" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m140.84 364.11c-0.11035-0.93422-1.9483-0.9575-1.9483-0.9575s-0.38948 1.5301-0.22256 2.1422c1.3632 0.50075 2.0922-4e-3 2.0922-4e-3" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m138.9 363.15s-17.61-4.0895-19.613-4.0895-2.8933 1.1684-2.782 3.4497 22.172 2.782 22.172 2.782" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m117.67 363.29s-1.2241-0.94586 0.33383-1.7805c1.5579-0.8346 20.67 3.7835 20.67 3.7835" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m168.58 353.78 0.33384-2.2256 8.0678-2.5038 2.3925 1.4466" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".39687">
+       <path d="m168.91 351.55 2.1143 1.5579" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m120.12 133.22 3.561 3.3384c0.85947-1.9672 1.346-6.1108-1.1128-10.126-2.6516-4.3305-7.5344-5.4566-12.964-0.72331-5.286 4.6081-4.2843 13.131-2.2256 16.08 2.0587 2.9489 5.7309 4.5068 8.1234 3.8948 2.3925-0.61203 5.8978-3.4497 7.2888-6.8437-3.8391-4.0061-7.6783-7.567-7.6783-7.567l-2.2256 3.3384 4.5068 4.5068s-2.7264 3.8948-5.9535-0.0556c-3.2271-3.9504-0.89023-9.2362 2.2812-11.406 3.1715-2.17 8.4398 1.7327 6.3986 5.564z" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m20.901 252.72s7.4355 0.86838 9.0637 0c1.6282-0.86837 2.1709-1.7368 1.791-2.768-0.37992-1.0312-7.2184-3.962-10.909-5.156-3.6906-1.194-14.708-4.2333-16.825-4.1791-2.1167 0.0543-3.4192 3.365-3.5821 3.6363-0.16282 0.27137-0.54273 0.92265-0.54273 0.92265" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m20.901 252.72c-10.963-1.8453-10.475-2.6594-11.397-3.9077-0.92265-1.2483-3.5278-4.8303-7.2726-4.3419-3.7449 0.48846-4.4504 3.2021-4.1248 4.0162s4.8846 1.5197 7.0013 1.791c2.1167 0.27137 3.0936 1.6282 3.9077 2.388 0.8141 0.75983 3.6363 0.48846 3.6363 0.48846l6.1329-0.75983" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m16.234 251.96s-5.753 0.54274-6.5128-0.43419c-0.75983-0.97692-2.7679-3.6363-5.1017-4.7761-2.3338-1.1398-5.2103-0.43419-5.2103 1.7368" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m10.047 249.62s-0.43419-1.5739 3.3107-1.4654c3.7449 0.10854 9.8778 2.2795 10.203 2.6594s0.43419 2.1438 0.43419 2.1438" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m1.5257 242.57s1.5739-1.2483 10.203 0.92265c8.6295 2.1709 14.382 4.2333 15.794 5.2102 1.4111 0.97693 1.8453 3.6363 2.8765 3.8534" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+      <g stroke-width=".79375">
+       <path d="m20.304 250.6s-0.21709 1.9267 0.08141 2.5237" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m18.35 250.33s-0.21709 1.9267 0.08141 2.5237" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m15.8 250.44s-0.21709 1.9267 0.08141 2.5237" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m13.33 250.44s-0.21709 1.9267 0.08141 2.5237" enable-background="new" style="paint-order:markers fill stroke"/>
+       <path d="m13.113 252.58s-0.65128 1.1397 0.16282 2.0352c0.8141 0.89552 2.1709-0.24423 4.0705-0.10854 1.8996 0.13568 2.1167 0.94978 1.2212 1.5197-0.89551 0.56987-0.56987-0.43419-2.7137-0.27137-2.1438 0.16282-4.2333-0.89551-2.7408-3.175z" enable-background="new" style="paint-order:markers fill stroke"/>
+      </g>
+     </g>
+     <g transform="matrix(-.26458 -.10717 .28618 -.14866 -59.206 34.917)" enable-background="new" aria-label="WAK KOM">
+      <path d="m-1089.3-743.48q-0.031 0.21094-0.125 0.99219-0.086 0.78125-0.1953 1.6406-0.1094 0.85938-0.2422 1.7266-0.1328 0.85937-0.3047 1.4219t-0.3438 0.5625q-0.3359 0-0.9922-0.0156-0.6562-0.0156-0.9921-0.0156-1.5079 0-2.7813 0.0625-0.1094-0.0547-0.1953-0.17187-0.078-0.11719-0.1328-0.28125-0.047-0.16407-0.078-0.28907-0.024-0.13281-0.055-0.32812-0.024-0.20313-0.039-0.27344-1.3516-6.4453-1.6719-7.8438l-0.5468-2.625q0-0.21875 0.2187-0.29687 0.1875 0.0156 0.5938 0.0156h0.625q0.1875 0 0.539-0.0156 0.3516-0.0156 0.5078-0.0156 0.1485-8e-3 0.4375 8e-3 0.2891 8e-3 0.375 8e-3h0.4532q0.078 0.0156 0.2343 0.0156h0.2344q0.1406 0.0391 0.2813 0.53906 0.1406 0.5 0.2656 1.375t0.2031 1.5312q0.078 0.64844 0.1719 1.5781 0.1015 0.92187 0.1015 0.9375l0.9922-5.9453q0.375 0.0312 0.5938 0.0312h0.4844q0.6328 0 1.8281-8e-3 1.2031-8e-3 1.7969-8e-3 0.164 0 0.2031 0.125l0.9765 6.4609q0.1485-1.7812 0.3672-3.2578l0.4688-3.1719q0.055-0.1875 0.5469-0.1875h0.375q0.094-8e-3 0.289 8e-3 0.2031 8e-3 0.2891 8e-3h0.6875q0.289 0 0.6484 8e-3 0.3672 8e-3 0.3828 8e-3h0.9219q0.07 0 0.094 0.10938 0.023 0.10156 0.039 0.34375l-2.5156 11.5q-0.1563 0.0156-0.375 0.0156-0.2188 0-0.3984-8e-3 -0.1797 0-0.4141-8e-3 -0.2344 0-0.3828 0-0.3203 0-0.9766-8e-3 -0.6484-8e-3 -0.9765-8e-3 -0.039 0-1.5235 0.0469z"/>
+      <path d="m-1082-737.39q0.4844-1.7891 1.0703-3.6328 0.586-1.8438 1.4531-4.4062 0.875-2.5703 1.1954-3.5547 0.094-0.15625 0.125-0.1875h1.3125q0.4609 0 1.3593-0.0156 0.8985-0.0156 1.3594-0.0156h1.3125q0.1172 0 0.1953 8e-3 0.078 0 0.1875 0.0156 0.1094 0.0156 0.1719 0.0469 0.07 0.0312 0.1172 0.0937 0.047 0.0625 0.047 0.14844l3.6015 11.414q0 0.15625-0.1172 0.21094-0.1093 0.0625-0.4218 0.0625h-0.7188q-0.3125 0-0.9297 8e-3t-0.9297 8e-3q-0.094 0-0.3828 8e-3 -0.2812 0.0156-0.4765 8e-3 -0.1954 0-0.4375-0.0234-0.2344-0.0156-0.3829-0.0859-0.1406-0.0625-0.1796-0.17188v-0.51562q-0.078-0.39063-0.2735-0.71875-0.1953-0.32813-0.414-0.32813h-2.6875l-0.4063 1.6562q-0.086 0.1875-0.875 0.1875h-0.625q-0.3359 0-1 0.0234t-1 0.0234h-0.2187q-0.125 0-0.3985 8e-3 -0.2656 8e-3 -0.414 8e-3 -0.062-0.0625-0.2188-0.28125zm5.4219-4.7422 0.2187 0.36719h0.5157q0.625 0 1.1406-0.0703 0.5234-0.0781 0.5234-0.24219l-1.0078-4.5q-0.1406 0-0.3828 0.53125-0.2344 0.53125-0.3828 1.2031z"/>
+      <path d="m-1067.5-737.14q-0.1719 0-0.2656-0.0391-0.086-0.0312-0.1172-0.0781-0.023-0.0469-0.086-0.17968v-11.109q0-0.17187 0-0.25 0.01-0.0781 0.031-0.17969 0.023-0.10937 0.07-0.14843 0.055-0.0469 0.1485-0.0781 0.094-0.0312 0.2343-0.0312h3.2032q1.125 0 1.125 0.28125v0.0156q-0.031 2.9062-0.031 4.3281l2.1953-4.5703 1.6172 8e-3q3.3125 0 3.3125 0.15625 0 0.0312-0.031 0.0312-1.5157 2.7344-3.0782 5.4375v0.21875l0.3203 0.20313 3.2657 5.6172q0 0.125-0.1797 0.27344h-5.0156l-2.2344-4.3594q-0.047 0.42968-0.07 1.25-0.024 0.82031-0.039 1.0781v1.8438q-0.055 0.28125-0.9375 0.28125z"/>
+      <path d="m-1049.8-737.14q-0.1719 0-0.2656-0.0391-0.086-0.0312-0.1172-0.0781-0.023-0.0469-0.086-0.17968v-11.109q0-0.17187 0-0.25 0.01-0.0781 0.031-0.17969 0.023-0.10937 0.07-0.14843 0.055-0.0469 0.1485-0.0781 0.094-0.0312 0.2343-0.0312h3.2032q1.125 0 1.125 0.28125v0.0156q-0.031 2.9062-0.031 4.3281l2.1953-4.5703 1.6172 8e-3q3.3125 0 3.3125 0.15625 0 0.0312-0.031 0.0312-1.5157 2.7344-3.0782 5.4375v0.21875l0.3203 0.20313 3.2657 5.6172q0 0.125-0.1797 0.27344h-5.0156l-2.2344-4.3594q-0.047 0.42968-0.07 1.25-0.024 0.82031-0.039 1.0781v1.8438q-0.055 0.28125-0.9375 0.28125z"/>
+      <path d="m-1038.5-743.27v-0.85937q0.078-1.0938 0.4766-1.9922 0.3984-0.90625 1.0078-1.5234 0.6172-0.61719 1.4219-1.0391 0.8046-0.42969 1.6796-0.625 0.8829-0.19531 1.8204-0.19531 0.5156 0 1.0703 0.0859 0.5625 0.0859 1.1875 0.27344 0.625 0.1875 1.1953 0.55469 0.5781 0.35937 0.9531 0.85156 0.7734 0.94531 1.1172 1.9844 0.3516 1.0312 0.3516 2.2969 0.023 2.6406-1.1563 4.25l-0.3437 0.46875q-0.4532 0.625-1.2969 1.0469-0.8438 0.41406-1.6875 0.57031-0.8438 0.16406-1.7031 0.16406-1.0079 0-1.8594-0.20312-0.8516-0.20313-1.4688-0.54688t-1.1015-0.83594q-0.4844-0.49218-0.7969-1.0391-0.3047-0.54687-0.5078-1.1875-0.1953-0.64062-0.2813-1.25-0.078-0.60937-0.078-1.25zm6.2188-3.0938q-0.3204 0-0.5782 0.14844-0.25 0.14844-0.414 0.35937-0.1563 0.21094-0.2735 0.57032-0.1172 0.35156-0.1718 0.64062-0.055 0.28125-0.086 0.71875-0.031 0.42969-0.039 0.67188 0 0.23437 0 0.60937 0 0.35938 0.023 0.6875 0.031 0.32031 0.1172 0.6875 0.094 0.35938 0.2344 0.63281 0.1484 0.26563 0.3984 0.45313 0.2578 0.17969 0.5859 0.19531 0.3438 0 0.6094-0.10937 0.2656-0.11719 0.4453-0.28907 0.1797-0.17968 0.3047-0.47656 0.125-0.29687 0.1875-0.57031 0.07-0.27344 0.1016-0.67969 0.039-0.40625 0.047-0.69531 0.01-0.29688 0.01-0.74219 0-0.32812-0.024-0.60937-0.016-0.28125-0.062-0.625-0.047-0.34375-0.1562-0.60157-0.1094-0.26562-0.2657-0.49218-0.1562-0.23438-0.414-0.35938-0.25-0.125-0.5781-0.125z"/>
+      <path d="m-1009.4-740.31q0 0.14062 0.016 0.4375 0.016 0.28906 0.024 0.55468 0.01 0.26563 0.01 0.59375 0.01 0.32032-0.024 0.58594-0.023 0.25781-0.078 0.49219-0.055 0.22656-0.1719 0.35156-0.1093 0.125-0.2734 0.125h-3.5625q-0.375-0.28906-0.375-2.1562 0-0.67969 0.01-1.6328 0.01-0.96094 0.01-1.3672v-0.54687q0-0.0703-0.016-0.26563-0.01-0.20312 0-0.3125-0.3125 1.1328-0.7656 3.2422-0.4531 2.1094-0.625 2.8203-0.078 0.21875-0.7188 0.21875h-2.7656q-0.5078 0-0.5937-0.26562l-0.75-3.2656q-0.1016-0.5-0.2266-1.0391-0.1172-0.53906-0.2813-1.2266-0.164-0.6875-0.2421-1.0156-0.094 2.5-0.094 3.8125v1.375q0 0.92188 0.016 1.3906-0.047 0.17187-0.1718 0.17187h-0.7344q-0.461 0-1.3516 8e-3t-1.3515 8e-3q-0.4219 0-0.4219-0.14063v-11.594q0-0.0703 0.031-0.11719 0.039-0.0547 0.1094-0.0781 0.078-0.0312 0.1484-0.0469 0.07-0.0156 0.1797-0.0156 0.1094-8e-3 0.1797-8e-3 0.07-8e-3 0.1797 0 0.1094 0 0.1406 0h0.9219q2.2266 0 3.1328 0.0625 0.9141 0.0625 1.3985 0.0625 0.1875 1.0469 0.5937 3.1094l0.5938 3.1094 1.25-6.3125t0.062 0.0156 0.094 0.0156q0.8359 0 2.4688-0.0234 1.6328-0.0234 2.4687-0.0234h1.1563q0.2187 0.0234 0.2187 0.4375 0.1719 7.5703 0.1875 8.4531z"/>
+     </g>
+    </g>
+    <g transform="matrix(-.34295 0 0 -.20412 -59.098 34.808)" enable-background="new" aria-label="CAK NUN">
+     <path d="m-479.41-1364.6q-1.2834 0-1.9828-0.6518-0.69261-0.6519-0.69261-2.0847 0-2.7364 2.6618-2.7364 0.64508 0 1.1951 0.1561 0.55681 0.1562 0.82842 0.3463v1.6976h-1.6297v-0.4889q0-0.258-0.11544-0.3802-0.11543-0.1223-0.3463-0.1223t-0.34631 0.1223q-0.11543 0.1222-0.11543 0.3802v2.0507q0 0.258 0.11543 0.3802 0.11544 0.1223 0.34631 0.1223t0.3463-0.1223q0.11544-0.1222 0.11544-0.3802v-0.55h1.6297v1.7587q-0.2784 0.1901-0.82842 0.3463-0.54322 0.1561-1.1815 0.1561z"/>
+     <path d="m-472.15-1365.8h0.27161v1.1136h-2.6618v-1.1136h0.40741l-0.10864-0.5433h-0.92348l-0.10865 0.5433h0.40742v1.1136h-2.3223v-1.1136h0.27161l1.1476-4.1693h2.4717zm-2.8655-1.263h0.62471l-0.2784-1.3513h-0.0679z"/>
+     <path d="m-466.57-1365.8h0.33952v1.1136h-1.8538l-1.0185-2.105-0.31236 0.258v0.7334h0.32594v1.1136h-2.5667v-1.1136h0.33951v-3.0557h-0.33951v-1.1136h2.5667v1.1136h-0.32594v0.8963l1.0525-0.8963h-0.42779v-1.1136h2.526v1.1136h-0.33952l-1.134 0.9371z"/>
+     <path d="m-460.03-1370h2.2272v1.1136h-0.33952v4.1693h-1.9081l-1.9896-3.0625v1.9489h0.32593v1.1136h-2.2272v-1.1136h0.33951v-3.0557h-0.33951v-1.1136h2.4513l1.7858 2.7229v-1.6093h-0.32594z"/>
+     <path d="m-455-1364.6q-1.0661 0-1.65-0.4685-0.57718-0.4685-0.57718-1.521v-2.2748h-0.33951v-1.1136h2.5124v1.1136h-0.27161v2.6211q0 0.2241 0.0951 0.3327 0.10185 0.1019 0.29877 0.1019t0.29198-0.1019q0.10186-0.1086 0.10186-0.3327v-2.6211h-0.27162v-1.1136h2.3291v1.1136h-0.33951v2.2748q0 1.0525-0.5636 1.521-0.56359 0.4685-1.6161 0.4685z"/>
+     <path d="m-448.33-1370h2.2272v1.1136h-0.33951v4.1693h-1.9081l-1.9896-3.0625v1.9489h0.32594v1.1136h-2.2272v-1.1136h0.33952v-3.0557h-0.33952v-1.1136h2.4513l1.7858 2.7229v-1.6093h-0.32593z"/>
+    </g>
+    <rect x="93.144" y="312.49" width="13.739" height="2.9167" enable-background="new" stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687" style="paint-order:markers fill stroke"/>
+   </g>
+   <g transform="matrix(.042989 0 0 .059485 -38.022 185.48)" enable-background="new" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="7.8482">
+     <path d="m2220.7 1584h40.205l20.513-54.154h49.641s5.7436-14.769 6.1539-17.641c0.4102-2.8718-4.1026-4.923-6.5641-5.3333-2.4616-0.4103-80-0.4103-80-0.4103z" style="paint-order:markers fill stroke"/>
+     <path d="m2284.6 1539.2-6.092 14.215 33.651 0.2901 5.6569-14.36z" style="paint-order:markers fill stroke"/>
+     <path d="m2341.9 1524-3.6261 6.9623h45.835c6.3821 0 6.237 6.237 4.3514 8.5578-1.8856 2.3207-8.2677 1.7405-15.665 1.7405h-34.086c-4.7866 0-12.764 4.3515-17.116 13.344-4.3514 8.993-9.7182 18.131 10.734 18.131h33.796c4.4965 0 8.1227-1.0153 10.734-3.191 1.0011 3.7362 1.5955 4.0613 1.5955 4.0613h30.75s13.634-26.689 16.1-33.506c2.4658-6.8172-1.0153-14.36-8.2677-15.23-7.2524-0.8703-75.135-0.8703-75.135-0.8703z" style="paint-order:markers fill stroke"/>
+     <path d="m2384.1 1549.2-6.8172 15.085h-15.81c-4.7866 0-5.0767-4.7866-1.4505-9.7182s5.947-6.9623 24.078-5.3668z" style="paint-order:markers fill stroke"/>
+     <path d="m2441.2 1523.5-19.898 50.256h37.128s13.128-30.974 15.385-35.897c2.2564-4.9231 8.4102-5.5385 16.41-6.1539s8 4.718 7.3846 8.2051c-0.6154 3.4872-14.154 33.436-14.154 33.436h35.487s13.744-29.744 14.769-36.923c1.0256-7.1795-4.718-11.898-8.4103-12.103s-84.102-0.8205-84.102-0.8205z" style="paint-order:markers fill stroke"/>
+     <path d="m2636.5 1524.3-2.4615 7.5897s-44.308-0.2051-46.974-0.2051c-2.6666 0-6.9743 4.1026-6.9743 5.9487 0 1.8462 0.2051 2.6667 7.7948 1.8462 7.5898-0.8205 37.333-2.2564 41.436 1.8461 4.1026 4.1026-6.9743 28.308-10.051 30.359-3.077 2.0513-87.795 2.2564-87.795 2.2564l3.4872-9.4359s42.872-1.0256 48.615-0.8205c5.7436 0.2051 7.5898-3.282 6.359-4.1026-1.2307-0.8205-2.4615-1.2307-7.3846-1.2307s-37.538 0.8205-39.18-1.8462c-1.641-2.6666-3.0769-9.2307 2.6667-19.692 5.7436-10.462 17.231-11.897 30.974-12.103 13.744-0.2051 59.487-0.4102 59.487-0.4102z" style="paint-order:markers fill stroke"/>
+    </g>
+    <rect x="2149.7" y="1499.1" width="551.38" height="97.641" rx="98.051" ry="48.821" stroke-width="10.464" style="paint-order:markers fill stroke"/>
+   </g>
+   <g fill="none">
+    <g stroke-linecap="round" stroke-linejoin="round">
+     <path d="m12.053 246.12s-1.0362-0.88267-1.5735-0.70997c-0.53728 0.17269-0.94024 0.6716-0.13432 1.3432 0.80592 0.6716 1.2856 1.0362 2.437 0.59484 1.1513-0.44133 2.2834-1.6118 2.1107-1.938-0.1727-0.32621-0.69079-0.80592-1.2664-0.38377-0.57566 0.42214-1.324 1.2472-1.5735 1.0937z" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+     <circle cx="12.149" cy="244.93" r=".42215" enable-background="new" stroke-width=".52917" style="paint-order:markers fill stroke"/>
+     <g stroke-width=".39687">
+      <path d="m22.367 255.43 1.2754 3.4464 1.4654-0.78697-0.67842-1.6825 1.6011-0.67842-0.8141-1.4654z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="27.618" cy="254.71" r="1.099" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="27.129" cy="257.97" r=".82767" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="25.121" cy="259.7" r=".63771" enable-background="new" style="paint-order:markers fill stroke"/>
+     </g>
+     <path d="m-48.569 66.721c0 1.3026-4.0162 22.795-4.0162 22.795l16.716 2.6051 4.559-22.361z" enable-background="new" stroke-width=".79375" style="paint-order:markers fill stroke"/>
+     <g stroke-width=".39687">
+      <path d="m-42.228 73.148a5.8073 5.8073 0 0 0-3.2742 1.3245l1.2371 1.3028a4.0162 4.0162 0 0 1 2.48-0.85834 4.0162 4.0162 0 0 1 3.2846 1.7136l1.5472-0.91312a5.8073 5.8073 0 0 0-2.9187-2.2588 1.4382 1.4382 0 0 1-1.0718 0.48111 1.4382 1.4382 0 0 1-1.2842-0.79168zm-4.1388 2.2211a5.8073 5.8073 0 0 0-1.2258 3.5641 5.8073 5.8073 0 0 0 0.02687 0.5147 1.4382 1.4382 0 0 1 1.1674 1.4118 1.4382 1.4382 0 0 1-0.39791 0.99064 5.8073 5.8073 0 0 0 3.113 2.5642l0.46354-1.7348a4.0162 4.0162 0 0 1-2.5818-3.7465 4.0162 4.0162 0 0 1 0.77773-2.3683zm9.8862 1.2113c-0.58723 0.30404-1.0351 0.53185-1.6015 0.8077a4.0162 4.0162 0 0 1 0.31316 1.5451 4.0162 4.0162 0 0 1-4.0163 4.0163 4.0162 4.0162 0 0 1-0.49144-0.03359c-0.1756 0.64172-0.32419 1.1666-0.48886 1.741a5.8073 5.8073 0 0 0 0.9803 0.08372 5.8073 5.8073 0 0 0 3.807-1.4263 1.4382 1.4382 0 0 1-0.22479-0.77204 1.4382 1.4382 0 0 1 1.4382-1.4382 1.4382 1.4382 0 0 1 0.34313 0.04289 5.8073 5.8073 0 0 0 0.4439-2.2138 5.8073 5.8073 0 0 0-0.50281-2.3528z" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="-36.668" cy="82.605" r=".94979" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="-47.836" cy="80.86" r=".94979" enable-background="new" style="paint-order:markers fill stroke"/>
+      <circle cx="-40.889" cy="72.447" r=".94979" enable-background="new" style="paint-order:markers fill stroke"/>
+     </g>
+    </g>
+    <g transform="matrix(.26458 .041566 -.054444 .25603 -59.098 34.808)" enable-background="new" aria-label="UBUNTU">
+     <path d="m76.123 193.29q0.0078 0.75-0.55469 1.3125-0.55469 0.55469-1.2188 0.55469h-0.05469q-0.67188 0-1.2422-0.55469-0.57812-0.5625-0.57031-1.3516l0.04687-4.7656q0-0.46875-0.32812-0.8125-0.33594-0.34375-0.8125-0.34375h-0.03125q-0.625 8e-3 -0.96875 0.34375-0.32812 0.32813-0.32812 0.8125v4.4375q0 1.7812 1.2422 3.0234 1.25 1.25 3.0234 1.25h0.08594q1.7344 8e-3 2.9375-1.2266 1.1953-1.2188 1.1953-2.9375v-4.5469q0-0.48437-0.32812-0.8125-0.33594-0.34375-0.95312-0.34375h-0.03125q-0.48438 8e-3 -0.82812 0.34375-0.32812 0.34375-0.32812 0.8125z"/>
+     <path d="m82.952 195.76q-0.42188-0.0156-0.59375-0.0156-0.13281 0-0.21875-0.0859-0.10156-0.0859-0.10156-0.19531v-2.4375q0-0.13282 0.10156-0.21875 0.10156-0.0859 0.22656-0.0859h0.49219q0.9375 0 1.4922 0.28906 0.61719 0.3125 0.61719 1.2812 0 0.85156-0.60156 1.1797-0.55469 0.28906-1.4141 0.28906zm-0.91406-6.5391q0-0.27344 0.28906-0.28906 0.28125-8e-3 0.65625-0.0156 1.5234 0 1.5547 1.3438 0.01563 0.71094-0.44531 1-0.46094 0.28125-1.3203 0.28125h-0.41406q-0.14844-8e-3 -0.23438-0.0859-0.08594-0.0859-0.08594-0.19531zm3.625 2.7031q0-0.10156 0.08594-0.14843 1.3438-0.60938 1.3438-1.8359 0-1.3438-1.2422-1.9375-0.96875-0.50781-3.0938-0.53125-0.97656-0.0156-1.0547-0.0156-0.74219-0.0156-0.96875-0.0234-0.40625-8e-3 -0.71875 0.28125-0.29688 0.28125-0.29688 0.70312v7.8047q0 0.44531 0.3125 0.71875 0.35156 0.29687 0.75781 0.28125 1.3984-0.0625 1.4844-0.0547 3.0156-8e-3 4.0781-0.78125 1.0859-0.80469 1.0781-2.0156 0-1.7188-1.6641-2.2188-0.10156-0.0391-0.10156-0.22657z"/>
+     <path d="m94.405 193.29q0.0078 0.75-0.55469 1.3125-0.55469 0.55469-1.2188 0.55469h-0.05469q-0.67188 0-1.2422-0.55469-0.57812-0.5625-0.57031-1.3516l0.04687-4.7656q0-0.46875-0.32812-0.8125-0.33594-0.34375-0.8125-0.34375h-0.03125q-0.625 8e-3 -0.96875 0.34375-0.32812 0.32813-0.32812 0.8125v4.4375q0 1.7812 1.2422 3.0234 1.25 1.25 3.0234 1.25h0.08594q1.7344 8e-3 2.9375-1.2266 1.1953-1.2188 1.1953-2.9375v-4.5469q0-0.48437-0.32812-0.8125-0.33594-0.34375-0.95312-0.34375h-0.03125q-0.48438 8e-3 -0.82812 0.34375-0.32812 0.34375-0.32812 0.8125z"/>
+     <path d="m100.31 190.66 3.4766 5.6719q0.53907 0.88281 1.5391 0.88281h0.0469q0.83594 0 1.2812-0.54688 0.52344-0.82812 0.52344-1.2812v-6.8438q0-0.48437-0.32813-0.8125-0.33593-0.32812-0.95312-0.32812h-0.0312q-0.45313 0-0.79688 0.32812-0.35156 0.35157-0.34375 0.8125l0.14844 5.4297-4.1094-6.0859q-0.32813-0.48437-0.9375-0.48437h-0.6875q-0.48438 0-0.79688 0.32812-0.34375 0.34375-0.34375 0.8125v7.5156q0 0.48437 0.34375 0.8125 0.33594 0.34375 0.9375 0.34375h0.03125q0.48438 0 0.8125-0.34375 0.33594-0.36719 0.32813-0.8125z"/>
+     <path d="m108.35 188.55q0.0391 0.21875 0.28125 0.42969 0.22657 0.1875 0.48438 0.16406l1.7969-0.14062v7.0938q0 0.51562 0.34375 0.85937 0.33594 0.34375 0.84375 0.34375h8e-3q0.51562 0 0.85937-0.34375t0.34375-0.85937v-7.0938l1.7969 0.14062q0.22656 0.0234 0.48437-0.16406 0.21875-0.17969 0.28125-0.42969v-0.0312q0.13281-0.44531-0.14062-0.8125-0.23438-0.29687-0.625-0.29687h-5.9922q-0.39063 0-0.625 0.29687-0.25781 0.32813-0.14063 0.8125z"/>
+     <path d="m123.06 193.29q8e-3 0.75-0.55469 1.3125-0.55468 0.55469-1.2188 0.55469h-0.0547q-0.67188 0-1.2422-0.55469-0.57813-0.5625-0.57031-1.3516l0.0469-4.7656q0-0.46875-0.32812-0.8125-0.33594-0.34375-0.8125-0.34375h-0.0312q-0.625 8e-3 -0.96875 0.34375-0.32813 0.32813-0.32813 0.8125v4.4375q0 1.7812 1.2422 3.0234 1.25 1.25 3.0234 1.25h0.0859q1.7344 8e-3 2.9375-1.2266 1.1953-1.2188 1.1953-2.9375v-4.5469q0-0.48437-0.32813-0.8125-0.33594-0.34375-0.95312-0.34375h-0.0312q-0.48438 8e-3 -0.82813 0.34375-0.32812 0.34375-0.32812 0.8125z"/>
+    </g>
+    <g stroke-linecap="round" stroke-linejoin="round" stroke-width=".39687">
+     <path d="m113.29 67.532s-9.5559-1.0362-10.247-1.0362c-0.69079 0-2.7632-0.30702-3.2237 1.8805-0.46052 2.1875-1.1897 8.0208-1.1897 8.0208l8.2895 0.72916 0.23026-2.0724s-2.8015-0.38377-3.3772-0.38377-1.0746-0.34539-0.9978-3.2621" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m102.24 69.106-0.26863 2.1107 1.9188 0.38377 0.15351-2.3794z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m104.12 70.196 6.3725 0.40625 2.8015-3.0702" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m105.08 71.332s5.5263 0.38377 6.409 0.42215c0.88267 0.03838 1.3048 0.65241 1.1129 1.9189-0.19189 1.2664-0.65241 6.5625-0.65241 6.5625" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m109.92 79.161 3.6458 2.9934-2.034-0.03838-0.72917 1.9189-1.3048-4.375-0.92105-0.07675-0.46053-1.1129 1.6118-0.30702z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m109.92 79.161-0.42215 0.4989" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m109.72 78.163 0.3454-4.1447-5.1425-0.4989 0.1535-2.1875" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m108.57 79.583s-6.2171-0.4989-6.2938-0.76754c-0.0768-0.26864-0.0768-0.92105-0.0768-0.92105l-3.6842-0.26864s-0.42215 3.7226-0.19189 4.1831c0.23027 0.46052 1.1513 0.57566 2.0724 0.88267 0.92105 0.30702 10.055 0.92105 10.055 0.92105" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m-41.079 106.99s0.86838 1.3026-0.70556 2.0081c-1.5739 0.70556-1.8453 2.2252-0.32564 2.6594 1.5197 0.43419 2.985 0.27137 3.5821-2.6051 0.59701-2.8765 1.194-4.2876-0.59701-5.156s-4.2876-1.4654-4.5047 0.59701c-0.2171 2.0624 2.3338 1.5197 2.5509 2.4966z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <circle cx="-42.327" cy="101.24" r="1.1397" enable-background="new" style="paint-order:markers fill stroke"/>
+     <circle cx="-39.722" cy="102.05" r=".92265" enable-background="new" style="paint-order:markers fill stroke"/>
+     <circle cx="-37.578" cy="103.33" r=".78697" enable-background="new" style="paint-order:markers fill stroke"/>
+     <ellipse cx="32.048" cy="262.45" rx="1.0746" ry=".88267" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m31.541 262.45s-2.6323 0.39348-2.6323 0.59701 1.4654 0 1.9674-0.0543c0.50203-0.0543 1.0583-0.10855 0.66485-0.54274z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m31.677 262.43s0.09498-0.29851 0.47489-0.18996c0.37992 0.10855 0.40705 0.32564 0.40705 0.32564s-0.20353-0.0407-0.31207 0.12212c-0.10855 0.16281-0.56987 0.17639-0.56987 0.17639" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m-25.096 52.719s1.7654-3.1469 2.6096-3.5307c0.8443-0.38377 3.9145 2.4561 3.9145 2.8399 0 0.38377-1.9189 0.99781-1.3816 1.2281 0.53728 0.23026 1.0746 0.61403 0.46053 0.69079-0.61403 0.07675-1.6886 0.30702-1.3816 0.61403 0.30702 0.30702-1.1513 0.92105-1.6886 0.69079-0.53728-0.23026-0.8443-0.61403-0.53728-0.76754s0.07675 0.30702-0.53728-0.23026c-0.61403-0.53728-0.69079-0.23026-0.15351-0.61404 0.53728-0.38377-2.4561 0.76754-1.3048-0.92105z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m-22.332 49.879-1.3432 1.7654 0.95943-0.42215 0.42215 0.76754 0.34539-0.80592 0.8443 0.46053-0.11513-0.8443 0.76754 0.38377s-1.1897-1.1897-1.8805-1.3048z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m89.268 258.85-0.25063 0.0196c0.0385 0.0423 0.1509 0.16071 0.1509 0.16071s-0.27312-0.0685-0.65474-0.12195l-1.9079 0.14831c-0.046 0.0244-0.0915 0.0494-0.13229 0.0791-0.54728 0.39887-2.3742 0.99595-3.205 0.17984l-0.51315 0.0398c-0.59599 1.1857-2.5144 0.68683-3.2799 0.25424l-2.7988 0.21704c0.59563 8.1003 14.069 6.8164 12.591-0.97668z" enable-background="new" style="paint-order:markers fill stroke"/>
+     <circle cx="81.626" cy="262.45" r=".97862" enable-background="new" style="paint-order:markers fill stroke"/>
+     <circle cx="85.809" cy="261.99" r=".97862" enable-background="new" style="paint-order:markers fill stroke"/>
+     <path d="m84.65 255.92c-1.4504-0.0611-1.6728 1.1964-1.6728 1.1964-0.0561 0.24-0.0912 0.45827-0.11058 0.65887-0.0168-0.0928-0.0356-0.18787-0.059-0.28767 0 0-0.253-1.4315-1.9796-1.1664-1.7266 0.26506-4.2109 3.0752-4.2109 3.0752s1.8951-0.47749 2.6952 0.10565c0.69188 0.50425 3.4284 1.3234 3.6121-0.7945 0.45919 1.6449 2.9002 0.89545 3.548 0.4233 0.80012-0.58313 2.6952-0.10565 2.6952-0.10565s-2.4843-2.8094-4.2109-3.0745c-0.10791-0.0166-0.21008-0.0266-0.30677-0.0307z" enable-background="new" style="paint-order:markers fill stroke"/>
+    </g>
+   </g>
+   <path d="m69.187 133.21s0.65128 1.8453 2.2795 1.3026c1.6282-0.54273 0.10855-2.8765 0.54273-2.9308 0.43419-0.0543 3.3107 1.5197 2.7137 4.0162s-7.2726 3.365-5.5359-2.388z" enable-background="new" fill="#54afc6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229" style="paint-order:stroke markers fill"/>
+   <path d="m47.547 133.68c0.0768 0.0384 1.324-0.3262 1.9572-0.55647 0.63322-0.23026 1.9956 0.74836 1.9956 0.74836s-0.28783 1.1897-1.1513 1.4775c-0.86348 0.28783-2.5137 0.80592-2.8015-1.6694z" enable-background="new" fill="#54afc6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229" style="paint-order:stroke markers fill"/>
+  </g>
+  <g>
+   <path d="m-232.59 645.92h600.98v-41.124h-600.98z" enable-background="new" fill="#08a" fill-rule="evenodd" style="paint-order:markers stroke fill"/>
+   <text x="-22.660179" y="631.85095" fill="#ffffff" font-family="'Fira Sans'" font-size="16.907px" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.9908" text-align="center" text-anchor="middle" style="line-height:1.25;paint-order:stroke fill markers" xml:space="preserve"><tspan x="-22.660185" y="631.85095" fill="#ffffff" stroke-width="5.9908">Ilustrasi Oleh:  Nugroho Dwi Hartawan</tspan></text>
+   <rect x="-221.36" y="604.8" width="41.926" height="41.926" rx="0" ry="0" fill="#fff" style="paint-order:stroke fill markers"/>
+   <g transform="matrix(.11505 0 0 .11505 -236.25 576.93)" fill="#502">
+    <g>
+     <g fill="#502">
+      <g clip-path="url(#clipPath30)" fill="#502"></g>
+     </g>
+     <path d="m251.11 293.34c-21.965 0-39.929 17.969-39.929 39.933v91.266h29.285v-4e-3h88.957v-20.035c0-2.23-1.797-4.031-4.031-4.031h-68.52c-10.141 0-16.383-6.078-16.406-13.922v-46.266h-8.133v-26.097h26.094v8.664h96.437l16.707-29.508zm-14.203 25.422v16.945h16.945v-16.945zm30.832 28.152v22.695c0 3.875 2.918 6.813 7.219 6.813h68.832c5.992 0 11.09 4.879 11.09 11.09v44.789h10.433v11.39l16.872 6.832c1.277-3.898 1.976-8.05 1.976-12.359v-51.316c0-21.965-17.965-39.934-39.926-39.934zm-56.558 89.34v1.91c0 21.961 17.964 39.93 39.929 39.93h93.125c5.215 0 10.2-1.024 14.778-2.86l-6.817-16.836h-12.98v-9.589h-87.664c-5.989 0-11.086-5.102-11.086-11.09v-1.465zm132.61 0.621v16.945h12.086l23.734 58.614 13.864-27.008 27.003-13.864-59.742-24.187v-10.5z" fill="#08a"/>
+     <path d="m208.72 524.43c-3.274 0-5.953 2.683-5.953 5.953v5.636c0 3.27 2.679 5.954 5.953 5.954h3.515c0.977 0 1.895-0.243 2.711-0.665v1.286c0 1.531-1.179 2.711-2.711 2.711h-4.937v3.242h4.937c3.27 0 5.953-2.684 5.953-5.953v-12.211c0-0.891 0.403-1.664 1.039-2.153v-3.558c-1.027 0.304-1.941 0.883-2.66 1.648-1.09-1.16-2.629-1.89-4.332-1.89zm13.281 0v3.242h3.238v-3.242zm12.051 0c-3.27 0-5.95 2.683-5.95 5.953v11.59h3.239v-11.59c0-1.532 1.183-2.711 2.711-2.711h1.761c1.532 0 2.711 1.179 2.711 2.711v11.59h3.243v-11.59c0-1.532 1.183-2.711 2.71-2.711h1.762c1.531 0 2.711 1.179 2.711 2.711v11.59h3.242v-11.59c0-3.27-2.683-5.953-5.953-5.953h-1.762c-1.703 0-3.242 0.73-4.332 1.89-1.089-1.16-2.628-1.89-4.332-1.89zm26.785 0c-3.27 0-5.953 2.683-5.953 5.953v18.164h3.238v-7.239c0.816 0.422 1.738 0.665 2.715 0.665h3.515c3.27 0 5.954-2.684 5.954-5.954v-5.636c0-3.27-2.684-5.953-5.954-5.953zm17.519 0c-3.269 0-5.953 2.683-5.953 5.953v2.675c0 1.133 1.039 1.762 1.836 1.762h10.098v1.199c0 1.532-1.18 2.711-2.711 2.711h-5.981v-1.168h-3.242v4.411h9.223c3.269 0 5.953-2.684 5.953-5.954v-2.675c0-0.071-4e-3 -0.141-0.012-0.207-8e-3 -0.067-0.019-0.133-0.035-0.196-0.09-0.375-0.301-0.679-0.57-0.906-0.18-0.148-0.387-0.262-0.594-0.34-0.105-0.039-0.211-0.066-0.316-0.086-0.106-0.019-0.207-0.031-0.309-0.031h-10.098v-1.199c0-1.531 1.18-2.711 2.711-2.711h3.332c1.227 0 2.227 0.762 2.579 1.848h3.312c-0.422-2.864-2.914-5.09-5.891-5.09h-0.57zm17.442 0c-3.27 0-5.953 2.683-5.953 5.953v5.636c0 3.27 2.683 5.954 5.953 5.954h4.758c2.976 0 5.464-2.223 5.886-5.09h-3.312c-0.348 1.09-1.348 1.847-2.574 1.847h-4.758c-1.531 0-2.711-1.179-2.711-2.711v-5.636c0-1.532 1.18-2.711 2.711-2.711h4.758c1.226 0 2.226 0.758 2.574 1.847h3.312c-0.422-2.867-2.91-5.089-5.886-5.089zm16.187 0v3.238h8.305c1.531 0 2.711 1.183 2.711 2.715v0.347c-0.813-0.422-1.734-0.664-2.711-0.664h-5.637c-3.269 0-5.953 2.684-5.953 5.953 0 3.27 2.684 5.954 5.953 5.954h5.637c3.269 0 5.953-2.684 5.953-5.954v-5.636c0-3.27-2.68-5.953-5.953-5.953zm22.86 0c-3.27 0-5.953 2.683-5.953 5.953v18.164h3.242v-7.239c0.812 0.422 1.734 0.665 2.711 0.665h3.515c3.27 0 5.953-2.684 5.953-5.954v-5.636c0-3.27-2.683-5.953-5.953-5.953zm18.136 0c-3.269 0-5.953 2.683-5.953 5.953v5.636c0 3.27 2.684 5.954 5.953 5.954h8.305v-3.243h-8.305c-1.531 0-2.711-1.179-2.711-2.711v-0.347c0.817 0.422 1.739 0.664 2.711 0.664h5.637c3.274 0 5.957-2.684 5.957-5.953 0-3.27-2.683-5.953-5.957-5.953zm18.231 0v17.543h3.238v-17.543zm7.492 0v17.543h7.848c3.269 0 5.953-2.684 5.953-5.954v-5.636c0-3.27-2.684-5.953-5.953-5.953zm-169.98 3.242h3.515c1.532 0 2.711 1.179 2.711 2.711v5.636c0 1.532-1.179 2.711-2.711 2.711h-3.515c-1.532 0-2.715-1.179-2.715-2.711v-5.636c0-1.532 1.183-2.711 2.715-2.711zm52.117 0h3.515c1.532 0 2.711 1.179 2.711 2.711v5.636c0 1.532-1.179 2.711-2.711 2.711h-3.515c-1.531 0-2.711-1.179-2.711-2.711v-5.636c0-1.532 1.18-2.711 2.711-2.711zm74.008 0h3.515c1.532 0 2.711 1.179 2.711 2.711v5.636c0 1.532-1.179 2.711-2.711 2.711h-3.515c-1.532 0-2.711-1.179-2.711-2.711v-5.636c0-1.532 1.179-2.711 2.711-2.711zm18.136 0h5.637c1.531 0 2.715 1.179 2.715 2.711 0 1.531-1.184 2.711-2.715 2.711h-5.637c-1.527 0-2.711-1.18-2.711-2.711 0-1.532 1.184-2.711 2.711-2.711zm28.965 0h4.606c1.531 0 2.711 1.179 2.711 2.711v5.636c0 1.532-1.18 2.711-2.711 2.711h-4.606zm-159.94 1.875v12.426h3.238v-12.426zm92.652 3.761h5.637c1.531 0 2.711 1.18 2.711 2.711 0 1.532-1.18 2.711-2.711 2.711h-5.637c-1.531 0-2.711-1.179-2.711-2.711 0-1.531 1.18-2.711 2.711-2.711z" fill="#08a"/>
+     <g fill="#502">
+      <g fill="#502">
+       <g clip-path="url(#clipPath52)" fill="#502" opacity=".312">
+        <g fill="#502">
+         <g fill="#502">
+          <g clip-path="url(#clipPath56)" fill="#502">
+           <g transform="matrix(1.191 1.191 -1.191 1.191 775.56 -400.58)" fill="#502"></g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
